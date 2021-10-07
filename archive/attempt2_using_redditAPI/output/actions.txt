@@ -1,0 +1,9 @@
+BUY:
+GME
+AMC
+AMD
+TSLA
+PLTR
+
+SELL:
+BB

@@ -1,0 +1,66 @@
+anyascii==0.1.7
+backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
+backports.functools-lru-cache==1.6.1
+blis==0.7.4
+catalogue==2.0.1
+certifi==2020.12.5
+chardet==4.0.0
+click==7.1.2
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+contractions==0.0.48
+cymem==2.0.5
+decorator==4.4.2
+en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.0.0/en_core_web_lg-3.0.0-py3-none-any.whl
+gensim==3.8.3
+idna==2.10
+ipykernel @ file:///D:/bld/ipykernel_1613853120872/work/dist/ipykernel-5.5.0-py3-none-any.whl
+ipython @ file:///D:/bld/ipython_1614393721381/work
+ipython-genutils==0.2.0
+jedi @ file:///D:/bld/jedi_1610147001629/work
+Jinja2==2.11.3
+joblib==1.0.1
+jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1610375432619/work
+jupyter-core @ file:///D:/bld/jupyter_core_1612125412016/work
+MarkupSafe==1.1.1
+murmurhash==1.0.5
+nltk==3.5
+numpy==1.20.1
+packaging==20.9
+pandas==1.2.3
+parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1607618318316/work
+pathy==0.4.0
+pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
+preshed==3.0.5
+prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1615486796966/work
+psaw==0.1.0
+pyahocorasick==1.4.1
+pydantic==1.7.3
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1615243893546/work
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2021.1
+pywin32==300
+pyzmq @ file:///D:/bld/pyzmq_1614611981521/work
+regex==2020.11.13
+requests==2.25.1
+scikit-learn==0.24.1
+scipy==1.6.1
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+sklearn==0.0
+smart-open==3.0.0
+spacy==3.0.5
+spacy-legacy==3.0.1
+srsly==2.4.0
+textsearch==0.0.21
+thinc==8.0.2
+threadpoolctl==2.1.0
+tornado @ file:///D:/bld/tornado_1610094910414/work
+tqdm==4.59.0
+traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1602771532708/work
+typer==0.3.2
+unicode==2.8
+Unidecode==1.2.0
+urllib3==1.26.3
+wasabi==0.8.2
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
+wincertstore==0.2
