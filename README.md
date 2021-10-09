@@ -28,4 +28,11 @@ Appdiach 2 seems resonable!
 # Build and Test
 lets start with a fast search and see if such solution exist.
 
+# Reddit API-Rules
+- Clients connecting via OAuth2 may make up to 60 requests per minute. Monitor the following response headers to ensure that you're not exceeding the limits:
+  - X-Ratelimit-Used: Approximate number of requests used in this period
+  - X-Ratelimit-Remaining: Approximate number of requests left to use
+  - X-Ratelimit-Reset: Approximate number of seconds to end of period
+- See: https://github.com/reddit-archive/reddit/wiki/API
+
 
