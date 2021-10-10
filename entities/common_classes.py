@@ -51,7 +51,7 @@ class RedditCrawler:
         :param sub (str): sub that defines where to search
         :return weekly_tickers (dict): returns the weekly dict per sub
         """
-        list_generator = self.reddit_conn.subreddit(sub).top("week")  # toDo Set Limit dynamically? Higher? For testing it needs to be lower
+        list_generator = self.reddit_conn.subreddit(sub).top("week", limit=2)  # toDo Set Limit dynamically? Higher? For testing it needs to be lower
         return self._iterate_subreddit(list_generator=list_generator)
 
     def _iterate_subreddit(self, list_generator: ListingGenerator) -> dict:
@@ -66,10 +66,12 @@ class RedditCrawler:
         blacklist = ["A", "I", "DD", "WSB", "YOLO", "RH", "EV", "PE", "ETH", "BTC", "E"]  # toDo add to CONSTANT file
 
         for submission in list_generator:
+            # print(submission.score)  # Shows Score of a post
             strings = [submission.title]
             submission.comments.replace_more(limit=0)
             for comment in submission.comments.list():
                 strings.append(comment.body)
+                print(comment.score) # Shows score of a comment
             for s in strings:
                 for phrase in re.findall(regex_pattern, s):
                     if phrase not in blacklist:
