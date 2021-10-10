@@ -29,6 +29,7 @@ class RedditCrawler:
         self.reddit_conn = reddit_conn
         self.stock_list = self._get_stock_list()
         self.subs = ["wallstreetbets", "stocks", "investing", "smallstreetbets"]  # toDo add to CONSTANT file
+        self.data=[]
 
     def get_top_tickers_week(self) -> dict:
         """
@@ -51,7 +52,7 @@ class RedditCrawler:
         :param sub (str): sub that defines where to search
         :return weekly_tickers (dict): returns the weekly dict per sub
         """
-        list_generator = self.reddit_conn.subreddit(sub).top("week", limit=2)  # toDo Set Limit dynamically? Higher? For testing it needs to be lower
+        list_generator = self.reddit_conn.subreddit(sub).top("day", limit=20)  # toDo Set Limit dynamically? Higher? For testing it needs to be lower
         return self._iterate_subreddit(list_generator=list_generator)
 
     def _iterate_subreddit(self, list_generator: ListingGenerator) -> dict:
@@ -69,9 +70,11 @@ class RedditCrawler:
             # print(submission.score)  # Shows Score of a post
             strings = [submission.title]
             submission.comments.replace_more(limit=0)
+            comments=[]
             for comment in submission.comments.list():
                 strings.append(comment.body)
-                print(comment.score) # Shows score of a comment
+                comments.append({"score":comment.score,"body":comment.body})            
+            item = {"title": submission.title,"score": submission.score,"url": submission.url, "comments": comments}
             for s in strings:
                 for phrase in re.findall(regex_pattern, s):
                     if phrase not in blacklist:
@@ -80,7 +83,17 @@ class RedditCrawler:
                                 weekly_tickers[phrase] = 1
                             else:
                                 weekly_tickers[phrase] += 1
+                                print("phrase")
+                                print(phrase)
+            self.data.append(item)
+
+        print(weekly_tickers)
         return weekly_tickers
+        
+    def save_all_dailyscraped_as_json(self):
+        with open('dailydata.json', 'w') as outfile:
+            json.dump(self.data, outfile, indent=4)
+
 
     @staticmethod
     def _get_stock_list() -> dict:
@@ -109,3 +122,5 @@ class RedditCrawler:
         with open(f'output/{file_name}.json', 'w') as fp:
             json.dump(ordered_dictionary, fp, indent=4)
         print("File saved.")
+
+
