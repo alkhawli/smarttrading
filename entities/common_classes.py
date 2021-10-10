@@ -1,4 +1,5 @@
 import praw
+from praw.models.listing.generator import ListingGenerator
 import pandas as pd
 import re
 import json
@@ -27,7 +28,7 @@ class RedditCrawler:
         """
         self.reddit_conn = reddit_conn
         self.stock_list = self._get_stock_list()
-        self.subs = ["wallstreetbets", "stocks", "investing", "smallstreetbets"]  #toDo add to CONSTANT file
+        self.subs = ["wallstreetbets", "stocks", "investing", "smallstreetbets"]  # toDo add to CONSTANT file
 
     def get_top_tickers_week(self) -> dict:
         """
@@ -46,16 +47,24 @@ class RedditCrawler:
 
     def _get_weekly_tickers(self, sub: str) -> dict:
         """
-        Internal function to get weekly_tickers by sub
+        Internal function to get list_generator and create weekly_tickers by sub
         :param sub (str): sub that defines where to search
         :return weekly_tickers (dict): returns the weekly dict per sub
         """
-        weekly_tickers = {}
+        list_generator = self.reddit_conn.subreddit(sub).top("week")  # toDo Set Limit dynamically? Higher? For testing it needs to be lower
+        return self._iterate_subreddit(list_generator=list_generator)
 
-        regex_pattern = r'\b([A-Z]+)\b' #toDo add to CONSTANT file
+    def _iterate_subreddit(self, list_generator: ListingGenerator) -> dict:
+        """
+        Function to iterate over subreddits and filter commands for phrases
+        :param list_generator: List generator for comments
+        :return: dictionary of weekly tickers
+        """
+        weekly_tickers = {}
+        regex_pattern = r'\b([A-Z]+)\b'  # toDo add to CONSTANT file
         ticker_dict = self.stock_list
-        blacklist = ["A", "I", "DD", "WSB", "YOLO", "RH", "EV", "PE", "ETH", "BTC", "E"] #toDo add to CONSTANT file
-        list_generator = self.reddit_conn.subreddit(sub).top("week")  #toDo Set Limit dynamically? Higher? For testing it needs to be lower
+        blacklist = ["A", "I", "DD", "WSB", "YOLO", "RH", "EV", "PE", "ETH", "BTC", "E"]  # toDo add to CONSTANT file
+
         for submission in list_generator:
             strings = [submission.title]
             submission.comments.replace_more(limit=0)
@@ -78,7 +87,7 @@ class RedditCrawler:
         :return ticker_dict (dict): dictionary of tickers from files
         """
         ticker_dict = {}
-        file_list = ["input/list1.csv", "input/list2.csv", "input/list3.csv"] #toDo add to CONSTANT file
+        file_list = ["input/list1.csv", "input/list2.csv", "input/list3.csv"]  # toDo add to CONSTANT file
         for file in file_list:
             tl = pd.read_csv(file, skiprows=0, skip_blank_lines=True)
             tl = tl[tl.columns[0]].tolist()
@@ -98,4 +107,3 @@ class RedditCrawler:
         with open(f'output/{file_name}.json', 'w') as fp:
             json.dump(ordered_dictionary, fp, indent=4)
         print("File saved.")
-
