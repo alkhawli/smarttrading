@@ -29,39 +29,40 @@ class RedditCrawler:
         self.reddit_conn = reddit_conn
         self.stock_list = self._get_stock_list()
         self.subs = ["wallstreetbets", "stocks", "investing", "smallstreetbets"]  # toDo add to CONSTANT file
-        self.data=[]
+        self.data = []
 
-    def get_top_tickers_week(self) -> dict:
+    def get_top_tickers_day(self) -> dict:
         """
         Function to get a dictionary of top tickers per sub, filtered by top "week"  #toDo Set week dynamic?
         :return: top_tickers (dict): Dictionary of tickers with their quantity in comments
         """
         top_tickers = {}
         for sub in self.subs:
-            weekly_tickers = self._get_weekly_tickers(sub)
-            for ticker in weekly_tickers.keys():
+            daily_tickers = self._get_daily_tickers(sub)
+            for ticker in daily_tickers.keys():
                 if ticker in top_tickers:
-                    top_tickers[ticker] += weekly_tickers[ticker]
+                    top_tickers[ticker] += daily_tickers[ticker]
                 else:
-                    top_tickers[ticker] = weekly_tickers[ticker]
+                    top_tickers[ticker] = daily_tickers[ticker]
         return top_tickers
 
-    def _get_weekly_tickers(self, sub: str) -> dict:
+    def _get_daily_tickers(self, sub: str) -> dict:
         """
-        Internal function to get list_generator and create weekly_tickers by sub
+        Internal function to get list_generator and create daily_tickers by sub
         :param sub (str): sub that defines where to search
         :return weekly_tickers (dict): returns the weekly dict per sub
         """
-        list_generator = self.reddit_conn.subreddit(sub).top("day", limit=20)  # toDo Set Limit dynamically? Higher? For testing it needs to be lower
+        list_generator = self.reddit_conn.subreddit(sub).top("day",
+                                                             limit=2)  # toDo Set Limit dynamically? Higher? For testing it needs to be lower
         return self._iterate_subreddit(list_generator=list_generator)
 
     def _iterate_subreddit(self, list_generator: ListingGenerator) -> dict:
         """
         Function to iterate over subreddits and filter commands for phrases
         :param list_generator: List generator for comments
-        :return: dictionary of weekly tickers
+        :return: dictionary of daily tickers
         """
-        weekly_tickers = {}
+        daily_tickers = {}
         regex_pattern = r'\b([A-Z]+)\b'  # toDo add to CONSTANT file
         ticker_dict = self.stock_list
         blacklist = ["A", "I", "DD", "WSB", "YOLO", "RH", "EV", "PE", "ETH", "BTC", "E"]  # toDo add to CONSTANT file
@@ -70,30 +71,28 @@ class RedditCrawler:
             # print(submission.score)  # Shows Score of a post
             strings = [submission.title]
             submission.comments.replace_more(limit=0)
-            comments=[]
+            comments = []
             for comment in submission.comments.list():
                 strings.append(comment.body)
-                comments.append({"score":comment.score,"body":comment.body})            
-            item = {"title": submission.title,"score": submission.score,"url": submission.url, "comments": comments}
+                comments.append({"score": comment.score,
+                                 "body": comment.body})
+            item = {"title": submission.title,
+                    "score": submission.score,
+                    "url": submission.url,
+                    "comments": comments}
             for s in strings:
                 for phrase in re.findall(regex_pattern, s):
                     if phrase not in blacklist:
                         if phrase in ticker_dict:
-                            if phrase not in weekly_tickers:
-                                weekly_tickers[phrase] = 1
+                            if phrase not in daily_tickers:
+                                daily_tickers[phrase] = 1
                             else:
-                                weekly_tickers[phrase] += 1
-                                print("phrase")
-                                print(phrase)
+                                daily_tickers[phrase] += 1
+
             self.data.append(item)
 
-        print(weekly_tickers)
-        return weekly_tickers
-        
-    def save_all_dailyscraped_as_json(self):
-        with open('dailydata.json', 'w') as outfile:
-            json.dump(self.data, outfile, indent=4)
-
+        print(daily_tickers)
+        return daily_tickers
 
     @staticmethod
     def _get_stock_list() -> dict:
@@ -123,4 +122,6 @@ class RedditCrawler:
             json.dump(ordered_dictionary, fp, indent=4)
         print("File saved.")
 
-
+    def save_all_dailyscraped_as_json(self):
+        with open('output/dailydata.json', 'w') as outfile:
+            json.dump(self.data, outfile, indent=4)
