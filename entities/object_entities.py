@@ -6,18 +6,22 @@ class Comment(TypedDict):
     score: int
 
 
-class PostClass(TypedDict):
-    title: str
-    score: int
-    url: str
-    comments: List[Comment]
+# class PostClass(TypedDict):
+#     title: str
+#     score: int
+#     url: str
+#     comments: List[Comment]
 
 
 class MainStock(TypedDict):
     name: str
     mentions: int
-    posts: List[PostClass]
+    comments: List[Comment]
     actual_stock_value: Optional[str]
+
+
+class AllStocks(TypedDict):
+    stock_list: List[MainStock]
 
 # {"name": "TSLA",
 #  "mentions": 150,
