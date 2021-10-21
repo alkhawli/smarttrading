@@ -88,9 +88,9 @@ class RedditCrawler:
                     if next((item for item in main_dict.get("stock_list") if item["name"] == phrase), None) is None:
                         new_stock = MainStock(
                             name=phrase,
+                            actual_stock_value="todo",
                             mentions=1,
-                            comments=[comment_obj],
-                            actual_stock_value="todo"
+                            comments=[comment_obj]
                             )
                         main_dict['stock_list'].append(new_stock)
                         found_list.append(phrase)
