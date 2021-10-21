@@ -29,7 +29,7 @@ class RedditCrawler:
         """
         self.reddit_conn = reddit_conn
         self.stock_list = self._get_stock_list()
-        self.subs = ["wallstreetbets", "stocks"]#, "investing", "smallstreetbets"]  # toDo add to CONSTANT file
+        self.subs = ["wallstreetbets", "stocks"]  # , "investing", "smallstreetbets"]  # toDo add to CONSTANT file
         self.data = []
 
     def get_top_tickers_day(self) -> dict:
@@ -42,46 +42,64 @@ class RedditCrawler:
         )
 
         for sub in self.subs:
-            main_dict = self.crawl_posts(sub=sub, main_dict=main_dict)
-            #print(next((item for item in main_dict.get("stock_list") if item["name"] == "TSLA"), None))
+            main_dict = self._crawl_posts(sub=sub, main_dict=main_dict)
 
         return main_dict
 
-    def crawl_posts(self, sub: str, main_dict: dict):
-        daily_tickers = {}
-        regex_pattern = r'\b([A-Z]+)\b'  # toDo add to CONSTANT file
-        ticker_dict = self.stock_list
-        blacklist = ["A", "I", "DD", "WSB", "YOLO", "RH", "EV", "PE", "ETH", "BTC", "E"]  # toDo add to CONSTANT file
-
-        post_generator = self.reddit_conn.subreddit(sub).top("day",
-                                                             limit=10)  # toDo Set Limit dynamically? Higher? For testing it needs to be lower
+    def _crawl_posts(self, sub: str, main_dict: dict) -> dict:
+        """
+        Function to crawl posts and iterate through the comments in a post
+        :param sub: string of subreddit name
+        :param main_dict: main_dictionary where all stocks are listed AllStocks{..}
+        :return: updated main_dict with comments (crawled)
+        """
+        post_generator = self.reddit_conn.subreddit(sub).top("day", limit=10)  # toDo Set Limit dynamically? Higher? For testing it needs to be lower
 
         for post in post_generator:
             post.comments.replace_more(limit=0)
 
-            # Kommentare iterieren
             for comment in post.comments.list():
-                comment_obj = Comment(
-                    body=comment.body,
-                    score=comment.score
-                )
-                found_list = []
-                for phrase in re.findall(regex_pattern, comment.body):
-                    if phrase not in blacklist:
-                        if phrase in ticker_dict:
-                            if next((item for item in main_dict.get("stock_list") if item["name"] == phrase),
-                                    None) is None:
-                                main_dict['stock_list'].append(MainStock(
-                                    name=phrase,
-                                    mentions=1,
-                                    comments=[comment_obj]
-                                ))
-                                found_list.append(phrase)
-                            else:
-                                if phrase not in found_list:
-                                    next((item for item in main_dict.get("stock_list") if item["name"] == phrase), None)['mentions'] += 1
-                                    next((item for item in main_dict.get("stock_list") if item["name"] == phrase), None)['comments'].append(comment_obj)
-                                    found_list.append(phrase)
+                main_dict = self._crawl_comment(comment=comment, main_dict=main_dict)
+
+        return main_dict
+
+    def _crawl_comment(self, comment, main_dict: dict) -> dict:
+        """
+        Function to iterate over comments and search for phrases, add them to the main_dict and return it
+        :param comment: comment in a post
+        :param main_dict: main_dictionary where all stocks are listed AllStocks{..}
+        :return: updated main_dict
+        """
+        regex_pattern = r'\b([A-Z]+)\b'  # toDo add to CONSTANT file
+        ticker_dict = self.stock_list
+        blacklist = ["A", "I", "DD", "WSB", "YOLO", "RH", "EV", "PE", "ETH", "BTC", "E"]  # toDo add to CONSTANT file
+
+        comment_obj = Comment(
+            body=comment.body,
+            score=comment.score
+        )
+        found_list = []
+
+        # Looks for phrase in comment.body
+        for phrase in re.findall(regex_pattern, comment.body):
+            if phrase not in blacklist:
+                if phrase in ticker_dict:
+                    # Adds a MainStock obj to the dictionary if the phrase not exists
+                    if next((item for item in main_dict.get("stock_list") if item["name"] == phrase), None) is None:
+                        new_stock = MainStock(
+                            name=phrase,
+                            mentions=1,
+                            comments=[comment_obj],
+                            actual_stock_value="todo"
+                            )
+                        main_dict['stock_list'].append(new_stock)
+                        found_list.append(phrase)
+                    else:
+                        # Adds comment to list and count mention +1 if phrase found
+                        if phrase not in found_list:
+                            next((item for item in main_dict.get("stock_list") if item["name"] == phrase), None)['mentions'] += 1
+                            next((item for item in main_dict.get("stock_list") if item["name"] == phrase), None)['comments'].append(comment_obj)
+                            found_list.append(phrase)
         return main_dict
 
     @staticmethod
@@ -107,7 +125,8 @@ class RedditCrawler:
         :param file_name: file name without file extension (.json)
         :return None:
         """
-        ordered_dictionary = {"stock_list": sorted(dictionary.get("stock_list"), key=lambda item: item['mentions'], reverse=True)}
+        ordered_dictionary = {
+            "stock_list": sorted(dictionary.get("stock_list"), key=lambda item: item['mentions'], reverse=True)}
         with open(f'output/{file_name}.json', 'w') as fp:
             json.dump(ordered_dictionary, fp, indent=4)
         print("File saved.")
