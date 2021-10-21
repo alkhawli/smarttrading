@@ -2,6 +2,7 @@
     "stock_list": [
         {
             "name": "TSLA",
+            "actual_stock_value": "todo",
             "mentions": 81,
             "comments": [
                 {
@@ -10,7 +11,7 @@
                 },
                 {
                     "body": "Aftermarket trading price is down. I don't know what to make of this if it's always predictable for TSLA to be down after earnings.",
-                    "score": 4
+                    "score": 3
                 },
                 {
                     "body": "TSLA is worth more than all other auto manufacturers combined and their market share dropped in all countries with the new competition.",
@@ -18,18 +19,18 @@
                 },
                 {
                     "body": "TSLA runs over 2000% over the past 24 months and my guy buys in NOW.  \n  \nIt is entirely possible this continues squeezing and gets back to nearly 3K again like it did last year though so it's not like you buying **WISH** on every hype or something like that.",
-                    "score": 11
+                    "score": 12
                 },
                 {
                     "body": "Lucky for TSLA it's valuation is based on the number of positive posts on WSB and not anything to do with  how the company actually performs",
-                    "score": 23
+                    "score": 19
                 },
                 {
                     "body": "No one is always right...and he bet against Elon and more so the fed and lost.  And dont be foolish it wasnt \"retail\" he lost to, most of retail cant afford a single share of TSLA, TSLA movement is almost all institutional investment of a company that is highly undervalued if you just do some simple math....",
                     "score": 0
                 },
                 {
-                    "body": "lol 3million....28% of TSLA is owned by the public(most of which are multi millionaires so not a typical retail investor), 51% institutions and 21% insiders....once TSLA was added to the S&P it became much more institutionally owned.  so 99% of it is owned by the elite and much less than 1% is owned by retail investors that would be on WSB....",
+                    "body": "lol 3million....28% of TSLA is owned by the public(most of which are multi millionaires so not a typical retail investor), 51% institutions and 21% insiders....once TSLA was added to the S&P it became much more institutionally owned.  Add it up and 99% of it is owned by the elite and much less than 1% is owned by retail investors that would be on WSB making comments about a the hard times a Billionaire like Burry is having with a bad TSLA position....",
                     "score": 1
                 },
                 {
@@ -46,7 +47,7 @@
                 },
                 {
                     "body": "TSLA will be similar to the cheap smartphones with very thin margins.\n\nCars aren't priced like tech gadgets and TSLA won't have the brand recognition/software exclusivity to prop up artificially high prices like AAPL.\n\nIn fact TSLA has behaved exactly like cheap smartphone brands so far, repeated slashing prices where possible to maintain pricing competitiveness. AAPL would never play ball to compete on price vs Xiaomi, TSLA is.",
-                    "score": -3
+                    "score": -2
                 },
                 {
                     "body": "If I remember correctly that's right around the time Musk tweeted TSLA was too high lmao. Seeing as how it's quintupled since then I wonder what he'd have to say now.",
@@ -54,7 +55,7 @@
                 },
                 {
                     "body": "Also the share price recently dipped into the mid 500\u2019s a couple months back but sounds like he still didn\u2019t buy. \n\nI bought June 2023 $1000C\u2019s when TSLA was $590 during the dip. \n\nPeople starting to get FOMO now",
-                    "score": 4
+                    "score": 6
                 },
                 {
                     "body": "The difference is that TSLA continues to beat expectations and Musk is so much more OP than people give him credit for. Yes his timelines are optimistic af, but he has proven to people again and again that he gets shit done.",
@@ -62,11 +63,11 @@
                 },
                 {
                     "body": "Rip\ud83e\udea6 to all TSLA call/put holder you\u2019ll be in theta gang prayers \ud83d\ude4f",
-                    "score": 70
+                    "score": 72
                 },
                 {
                     "body": "TSLA poot and call holders going to get IV fukt",
-                    "score": 36
+                    "score": 34
                 },
                 {
                     "body": "Once again without fail, the real winner of TSLA earnings is theta gang",
@@ -78,7 +79,7 @@
                 },
                 {
                     "body": "ALWAYS BUY THE POST TSLA ER DIP.   FREE ASS MONEY HOOKERS",
-                    "score": 19
+                    "score": 20
                 },
                 {
                     "body": "Nothing has ever been as priced in as TSLA",
@@ -90,7 +91,7 @@
                 },
                 {
                     "body": "Congrats TSLA iron condor holders",
-                    "score": 15
+                    "score": 17
                 },
                 {
                     "body": "They should put a seizure inducing warning on TSLA chart",
@@ -110,11 +111,11 @@
                 },
                 {
                     "body": "I\u2019m so upset by TSLA I think I\u2019ll chew my own cock off",
-                    "score": 14
+                    "score": 15
                 },
                 {
                     "body": "Damn, TSLA discussion dropped off a cliff... just like my calls.",
-                    "score": 12
+                    "score": 13
                 },
                 {
                     "body": "I'm here for TSLA options holders loss porn",
@@ -126,15 +127,15 @@
                 },
                 {
                     "body": "# TSLA\u00a010/22 1500c WORTHLESS \ud83e\udd21\ud83e\udd21\ud83e\udd21",
-                    "score": 29
+                    "score": 27
                 },
                 {
                     "body": "TSLA making those Put holders feel some kind of way right now.",
-                    "score": 10
+                    "score": 9
                 },
                 {
                     "body": "Rev miss = BULLISH\n\nTSLA to $1000 anyway",
-                    "score": 9
+                    "score": 11
                 },
                 {
                     "body": "Picked up four TSLA 845 10/22p before close. I\u2019m sure I\u2019ll get fucked somehow.",
@@ -142,19 +143,19 @@
                 },
                 {
                     "body": "In hindsight TSLA $950c wasn\u2019t the best idea I\u2019ve ever had",
-                    "score": 25
-                },
-                {
-                    "body": "Imagine buying 2DTE TSLA 900c with theta at -3.09 5 mins before close. \ud83d\ude02",
                     "score": 27
                 },
                 {
+                    "body": "Imagine buying 2DTE TSLA 900c with theta at -3.09 5 mins before close. \ud83d\ude02",
+                    "score": 28
+                },
+                {
                     "body": "missing: TSLA options traders \n\nlast seen: playing with theta",
-                    "score": 25
+                    "score": 26
                 },
                 {
                     "body": "Congratz TSLA Theta Gang especially the ones who sold straddles and/or strangles.",
-                    "score": 7
+                    "score": 9
                 },
                 {
                     "body": "TSLA announces cars have been mining bitcoin in the background for past year to benefit of TSLA at a 99%/1% revenue split. Owners batteries being drained to 50% after driving a mile now makes sense.",
@@ -162,15 +163,15 @@
                 },
                 {
                     "body": "\"Hi yes I'd like a refund? My finger slipped when that TSLA $1000c buy order went through\"\n\nMe calling customer support trying to get my money back",
-                    "score": 8
+                    "score": 7
                 },
                 {
                     "body": "TSLA just playing with FD holders\u2019 feelings at this point.",
-                    "score": 8
+                    "score": 7
                 },
                 {
                     "body": "Nostradamus here:\n\nTSLA will drop tomorrow.\n\nThank you for your attention.",
-                    "score": 7
+                    "score": 8
                 },
                 {
                     "body": "TSLA beat, but Theta gang is the real winner",
@@ -182,11 +183,11 @@
                 },
                 {
                     "body": "Not sure theta gang has ever lost on TSLA earnings. But I know the one time I try iron condors, it\u2019s going to be the ER that finally stops the music",
-                    "score": 8
+                    "score": 9
                 },
                 {
                     "body": "TSLA pulling a NFLX ![img](emote|t5_2th52|4641)",
-                    "score": 7
+                    "score": 8
                 },
                 {
                     "body": "It\u2019s always nice to hear the sideline brainiacs tell you AFTER earnings how stupid you are to buy an option $50+ otm on TSLA like it didn\u2019t move nearly $60 this week bc of earnings and $130 this month alone \ud83e\udde0\n\nStfu you nerds",
@@ -194,7 +195,7 @@
                 },
                 {
                     "body": "Will 10/29 TSLA options get crushed? IV is only 49%, I didn't check to see what the IV on today's options were",
-                    "score": 8
+                    "score": 7
                 },
                 {
                     "body": "Rip TSLA put holders",
@@ -210,11 +211,11 @@
                 },
                 {
                     "body": "At this point it\u2019s obvious TSLA is the equivalent to a market makers honeypot.  They\u2019re probably making so much money on selling options.",
-                    "score": 5
+                    "score": 6
                 },
                 {
                     "body": "My TSLA covered calls should do well tomorrow.  My SPY puts are to be determined.",
-                    "score": 5
+                    "score": 6
                 },
                 {
                     "body": "Lmao **TSLA announces they will switch to nickel-cadmium batteries**",
@@ -222,7 +223,7 @@
                 },
                 {
                     "body": "!banbet TSLA 1000 1d",
-                    "score": 14
+                    "score": 13
                 },
                 {
                     "body": "By \"sold a large percentage of holdings\" you mean trim it to be no more than 10% of ETFs?\nAnd why would you lie anyways? I have just checked last 10 days of ARK trading reports, no TSLA sold.",
@@ -230,15 +231,15 @@
                 },
                 {
                     "body": "Bears are still gonna make noises about valuations and its a shit company.\n\nWhen it was below 600$ a short time ago yall said that was too expensive. Remember Elon was gonna make TSLA bankrupt for his BTC purchase lol? Keep missing out on innovation",
-                    "score": 12
+                    "score": 10
                 },
                 {
                     "body": "It's interesting to see the sentiment on TSLA turn from bearish to bullish on this sub over the past year or so.",
-                    "score": 5
+                    "score": 4
                 },
                 {
                     "body": ">Perhaps I was wrong saying this one was overvalued. \ud83d\ude02\ud83d\ude02\n\nNow that's not something you often hear someone say (about TSLA)",
-                    "score": 19
+                    "score": 18
                 },
                 {
                     "body": "When you start looking at where the PE ratio could be at end of 2022, you start to see a path to a $1,500 to $2,000 share price at that time. \n\nNot investment advice\u2026 but you should yolo your life savings into $TSLA.",
@@ -246,11 +247,11 @@
                 },
                 {
                     "body": "TSLA usually drops on earnings.",
-                    "score": 37
+                    "score": 38
                 },
                 {
                     "body": "TSLA is priced very high right now, good results are expected.",
-                    "score": -3
+                    "score": -2
                 },
                 {
                     "body": "AH is pretty meaningless when it comes to TSLA\n\nThat said, it usually follows the 3 day rule.  Traders get out after earnings and Wall Street doesn't buy until about 3 days later\n\nSame as it ever was",
@@ -262,7 +263,7 @@
                 },
                 {
                     "body": "So you think TSLA should trade at a 2022 PE of 8 while growing at 50% per year for the next decade? Are you that dumb?",
-                    "score": 21
+                    "score": 22
                 },
                 {
                     "body": ">It's overvalued but the name of the game with tech companies is better get in now than later.\n\nhow can you defeat your own argument in one sentence and:\n\na) not see it\n\nand B) not own TSLA",
@@ -274,7 +275,7 @@
                 },
                 {
                     "body": "Haha true. I like to remain humble though. I am not claiming I knew that Tesla would become the juggernaut it is today, but at the time they looked like the most pure play into EVs and I knew that EVs were inevitable, so I bought the stock. And there is still room to run on TSLA so the $930 can probably turn into even more.",
-                    "score": 9
+                    "score": 10
                 },
                 {
                     "body": "You must mean r/realtesla\n\nWhat is so conspiracy about the subreddit? Like myself, majority of the active members are past tesla owners, not **$TSLA** holders. \n\nWe were **all banned** from r/teslamotors for posting topics of concern such as the battery fires and FSD we all purchased in 2016, 2017, and 2018.\n\nFeel free to look through my past post. I\u2019m all ~~ears~~ eyes.",
@@ -282,7 +283,7 @@
                 },
                 {
                     "body": "Selling TSLA now is like Russia selling Alaska to the US for $7.2 million in the 1860s. They had no idea what they were giving up.",
-                    "score": 1
+                    "score": 0
                 },
                 {
                     "body": "they've done what none thought was possible especially during the pandemic.  \n\nIf I didn't sold my TSLA shares,  I would have around 4m of profit but since I am a day trader,  I only see 2.5% of that.  I've been in the market long enough to not let that bothers me too much.  But once in a while, well you know.",
@@ -314,7 +315,7 @@
                 },
                 {
                     "body": "We still need to see how Tesla does in a bear market, though. And that will come, like it always does.\n\nI'm happy to see TSLA going to $3k. More money for me! But this is peak bull market sentiment.",
-                    "score": 0
+                    "score": 1
                 },
                 {
                     "body": "I dont think you should drive a car looking in the rearview mirror LOL. You should have followed FSD progress over last 12 months. It should be obvious to you that FSD is coming in near term in matter of months. \n\nI guess, such a realization shakes a lot of ppl to the core and just too hard to accept.  The point is both of those will still drive 2500% for TSLA in this decade.",
@@ -328,16 +329,16 @@
                     "body": "The hell do I know?\n\nI'm a TSLA holder. I'm just being realistic. If you want a stock that give you FATfire, TSLA is long gone unless you were holding since at least 2019 or have millions to play with.",
                     "score": 0
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "FSD",
+            "actual_stock_value": "todo",
             "mentions": 29,
             "comments": [
                 {
                     "body": "Tesla is approaching Apple in terms of ROIC. If you look in the rear-view mirror it doesn't look particularly interesting no, if you look a few years out it's still awfully cheap. If the current trends of growing revenue and margins continue, Tesla will be at Apple's forward PE within 2-3 years. That's not realistic for a company that's growing more than twice as fast while increasing margins. Imagine what happens when they start earnings SAAS revenues with FSD or Autobidder?",
-                    "score": 3
+                    "score": 4
                 },
                 {
                     "body": "Show me some actual math on this, because no matter which metrics I look at Tesla has 1-3 years of growth and no FSD revenue priced in.",
@@ -345,11 +346,11 @@
                 },
                 {
                     "body": "Tesla is dirt cheap if you actually do the math, i know this is WSB no one does math, but the current PE is 227 with the todays earnings...if you extrapolate today's numbers with Austin and Berlin outputs = to China, you'll get \\~15 PE at todays stock price....this doesnt even account for FSD or energy which both could be bigger than auto...thus 3000/sh is a bear case price in the market today.",
-                    "score": 9
+                    "score": 15
                 },
                 {
                     "body": "Tesla Fremont Capacity aims to ramp to 900k/yr by end of 2022.\nTesla China can ramp to 750k/yr by end of 2022.\nTesla Berlin aims for 500k/yr by end of 2022.\nTesla Austin aims for 500k/yr by end of 2022.\n\n900+750+500+500=2650k or 2.6M vehicles in 2023. This is on track with 70% growth over next 2 years, which is consistent with Elon stating 50% CAGR with new few years having higher growth.\n\nRather than declining, ASP is increasing. Currently is ~50k. Let\u2019s drop this to 40k in 2 years. Margin is also increasing. It\u2019s currently 30%. Let\u2019s maintain this because we Tesla Berlin and Austin will use 4680 cells which are cheaper and use Gigapress. (Note Elon is targeting 40% margin).\n\nThis is 31.8B in profits. At a 1T market cap this is 31 P/E ratio.\n\nIf Tesla can make FSD worth the 10k and brings take rate to 50%, you can slap on an extra 5k of free margin to the ASP. If Gigapress can actually remove hundreds of robots, and 4680 can really cut battery cost by half, you can slap on another 10k of free margin.\n\nIf Tesla solves FSD Robotaxi, all numbers go bonkers.",
-                    "score": 13
+                    "score": 12
                 },
                 {
                     "body": "Sure but 15%-20% of 80 million cars per year is still 12 to 16M cars with a 30% margin and average selling price of 45k then you have 216B in profits. Add FSD which i assume will be at full steam ahead in 2030 with a 30% take rate of 50M cars driving around that's another 120B high margins revenue so let's say 100B profit. So just cars you are looking at 316B profit in 9 years...",
@@ -373,7 +374,7 @@
                 },
                 {
                     "body": "28.8% excluding credits GAAP gross margin on 2.1B.  \nWtf this company is a cash cow. Also, \u201cFuture Product\u201d in development.... imagine these profits, FSD rollout AND the announcement of a $25,000 Mass EV. $1T when?",
-                    "score": 116
+                    "score": 115
                 },
                 {
                     "body": "Should be ez just with Austin and Berlin online....not even including energy or FSD/AI either of which could be bigger than the automotive....If either of those hit Elon's plans they'll have to break up Tesla as a monopoly....",
@@ -409,7 +410,7 @@
                 },
                 {
                     "body": "I\u2019m an engineer and your explanation is baseless. There are FSD Beta cars out right now driving at night with very few issues. Tesla could geofence and overtrain to a certain area for robo taxis within pretty short order, but they\u2019re going for a generalized Level 5 solution which will take longer (but will scale much faster).",
-                    "score": 4
+                    "score": 5
                 },
                 {
                     "body": "You must mean r/realtesla\n\nWhat is so conspiracy about the subreddit? Like myself, majority of the active members are past tesla owners, not **$TSLA** holders. \n\nWe were **all banned** from r/teslamotors for posting topics of concern such as the battery fires and FSD we all purchased in 2016, 2017, and 2018.\n\nFeel free to look through my past post. I\u2019m all ~~ears~~ eyes.",
@@ -451,11 +452,11 @@
                     "body": "Not all of it but >50%.\n\nGoogle sells a few pixl-phones but android has a market share of 73%. Tesla cars will be about one out of four cars but their licensed technologies (batteries, FSD) will power pretty much all of the other cars in the future",
                     "score": 3
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "BB",
+            "actual_stock_value": "todo",
             "mentions": 25,
             "comments": [
                 {
@@ -476,11 +477,11 @@
                 },
                 {
                     "body": "I just double downed on BB to get my cost average down for when we go back up.",
-                    "score": 118
+                    "score": 119
                 },
                 {
                     "body": "I forgot I was still holding BB.  I should check in on that!",
-                    "score": 83
+                    "score": 85
                 },
                 {
                     "body": "BB will get there. long BB",
@@ -488,31 +489,31 @@
                 },
                 {
                     "body": "BB shorts hard at work! I\u2019m holding!\nBB, TLRY to the moon!",
-                    "score": 10
+                    "score": 9
                 },
                 {
                     "body": "BB to $69",
-                    "score": 19
+                    "score": 21
                 },
                 {
                     "body": "BB will be back at $25 soon",
-                    "score": 19
+                    "score": 18
                 },
                 {
                     "body": "2nd biggest bag in my portfolio \n\nBB pls I miss the old you",
-                    "score": 14
+                    "score": 15
                 },
                 {
                     "body": "Closed almost all of my positions except for BB. Holding.",
                     "score": 3
                 },
                 {
-                    "body": "The amount of money I lost on BB....",
+                    "body": "Omg Wolverine and Beach House drives this BB home!",
                     "score": 3
                 },
                 {
-                    "body": "Omg Wolverine and Beach House drives this BB home!",
-                    "score": 2
+                    "body": "The amount of money I lost on BB....",
+                    "score": 3
                 },
                 {
                     "body": "I've been selling covered calls on BB for like 6 months, free money.",
@@ -540,7 +541,7 @@
                 },
                 {
                     "body": "It looks like you want to create a banbet. Say the following command.\n\n```\n !banbet BB +1% 1d TLRY +1% 1d\n```\n\n^This ^is ^a ^test. ^Collecting ^data, ^sorry ^if ^it's ^being ^dumb.",
-                    "score": -5
+                    "score": -3
                 },
                 {
                     "body": "Is BB held in any notable ETFs/funds?",
@@ -552,22 +553,22 @@
                 },
                 {
                     "body": "BB please allow me to pay off my parents' debt.",
-                    "score": 17
+                    "score": 18
                 },
                 {
                     "body": "I'm just here to say BB",
-                    "score": 10
+                    "score": 13
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "AMD",
+            "actual_stock_value": "todo",
             "mentions": 17,
             "comments": [
                 {
                     "body": "Holy shit I thought I was the only one who lost big on TSM calls. After the drop from 140 I was sure it would bounce back to 140 again and never did. Meanwhile AMD and nvidia hit fresh highs in the same time period. Never lucky. FUK",
-                    "score": 42
+                    "score": 38
                 },
                 {
                     "body": "I was hardcore amd and Tsmc fan. Bet on TSMC and lost. Should have bet on AMD. Tsmc is slow movement.",
@@ -583,15 +584,15 @@
                 },
                 {
                     "body": "!banbet AMD $120 1w or I eat ass",
-                    "score": 8
+                    "score": 9
                 },
                 {
                     "body": "**Ban Bet Created:** **/u/king-bollie** bet **AMD** goes from **115.99** to **120.0** before **2021-10-27 21:03:37.536461-04:00** **or i eat ass**",
-                    "score": 7
+                    "score": 8
                 },
                 {
                     "body": "AMD: before up, after sideways a few days, then some more up. Predicting 127 usd 1 week after earnings.",
-                    "score": 15
+                    "score": 16
                 },
                 {
                     "body": "Amazon: Post Earnings --- may have issue with EPS because of higher wage costs, however, longer term this stock is going UP as there are too many moats (Advertising, logistics, AWS, gaming, etc...)\n\nApple: Expensive as it is so this may be a dip coming.\n\nMicrosoft: A lot will depend on their cloud growth and profitability.\n\nGoogle: I think this is heading straight to $3,000-3,200 a share.\n\nFacebook: The big question will be how much apple's new privacy really affects their bottom line, otherwise, I think this thing is on a path upwards as well.\n\nAMD: Not sure.\n\nShopify: Not sure.",
@@ -603,7 +604,7 @@
                 },
                 {
                     "body": "Buying calls after earnings has always been the play for AMD",
-                    "score": 9
+                    "score": 8
                 },
                 {
                     "body": "Couple of genuine questions:\n\nAmazon --- why are they screwed?\n\nApple --- I get it and agree.\n\nMicrosoft --- Don't really follow it. \n\nGoogle --- AGREE\n\nFacebook --- Somewhat agree.\n\nAMD --- why?\n\nShopify --- why?",
@@ -611,7 +612,7 @@
                 },
                 {
                     "body": "Intel remains, fundamentally, a stock that I believe in. Yes, AMD is absolutely eating their lunch and NVIDIA is, frankly, in a league of their own, however, Intel has a relatively new CEO that has TONS of experience in the game and is turning this titanic sized company around --- it just takes time. \n\nThey are going to start competing with the like of Taiwan Semi on the fab side of the business and, fundamentally, I would argue, they are the strongest positioned chip company.\n\n$23 Billion of cash on hand against $36 billion of long term debt.\n\nMore importantly, the company is clearing, after tax net income of over $20 billion each and every year, which is expected to continue WITH dividend raises.\n\nThe companies future growth prospects will rely on one thing and one thing alone: Execution! If the company can start to execute, they have incredible fundamentals and can buy anything and everything they want. \n\nThis is why I have a significant stake in Intel and will continue to hold.\n\nLONG INTC. LONG AMD. LONG NVIDIA.",
-                    "score": 18
+                    "score": 17
                 },
                 {
                     "body": "I still think AMD will snap Intel",
@@ -633,16 +634,16 @@
                     "body": "of course x64 will shrink percentage wise. If x64 is 99%, and now suddenly you get another guy coming in swinnging, its not *that* hard to lose 1%. With that also said, both AMD and Intel have ARM licenses and AMD has publically stated they are willing to explore ARM further but dont see the need to release an ARM product at the moment",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "GME",
+            "actual_stock_value": "todo",
             "mentions": 15,
             "comments": [
                 {
                     "body": "You like act the apes can avoid burning their pasta water, let alone understand the SEC report on GME. You're setting a very high bar they've been unable to clear to date.",
-                    "score": 5
+                    "score": 8
                 },
                 {
                     "body": "Should buy $800 GME calls expiring January",
@@ -650,11 +651,11 @@
                 },
                 {
                     "body": "Show us your GME $1000C that's at -99%",
-                    "score": 22
+                    "score": 23
                 },
                 {
                     "body": "When I was young I had a cup of Skittles from the movies. I think they just had this thing where they sold candy in cup-shaped packaging for theatres. Anyways when I got home I accidentally spilled maybe half of it.\n\nI was so angry that I instinctively tossed the other 50% on the ground as well. I instantly felt regret and didn't understand why I chose that outcome. I didn't understand why I decided to make a bad situation worse. My anger still sometimes perplexes me. I'm more in control of it now and able to better avoid worsening the situation but I'm still stuck with that seething rage on the inside. What good is it if I still feel terrible? Why do I get so angry? Why does destroying my things feel good in the heat of the moment?\n\nI didn't really have a conclusion to the story, the moral is just buy more GME.",
-                    "score": 47
+                    "score": 46
                 },
                 {
                     "body": "I don't know how many times I have to repeat myself, but the market makers are the most likely recipient of your options trade. They don't care about the price of the contract. They collect premiums and make arbitrage on the spread. Citadel made millions off GME buying contracts just like this, and then selling off the shares that hedged the delta for them.  \n\n\nTrading these options is not about their underlying share price. Its about the change in that share price over time (velocity, also known as delta) and the rate of change in that velocity (gamma, also known as acceleration). You're trading on the violence of the move, not its absolute value.",
@@ -662,7 +663,7 @@
                 },
                 {
                     "body": "Apple brought in over 20 billion in profit for each of the last three quarters... literally 15x net profit.\nFor a company with such a high valuation it's not impressive at all. \nTesla is the GME of cars. \nBring on the downvotes;)",
-                    "score": 55
+                    "score": 58
                 },
                 {
                     "body": "!banbet GME 333 2w",
@@ -670,7 +671,7 @@
                 },
                 {
                     "body": "!banbet GME $225 6w",
-                    "score": 9
+                    "score": 8
                 },
                 {
                     "body": "!banbet GME 200 2w",
@@ -678,7 +679,7 @@
                 },
                 {
                     "body": "People make fun of the GME subs but, yet again, they were calling this shit out months ago.",
-                    "score": 5
+                    "score": 6
                 },
                 {
                     "body": "Everyone was calling this months ago, this has nothing to do with GME or the GME subs",
@@ -700,11 +701,11 @@
                     "body": "Literally anyone on the GME feed will do",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "TSM",
+            "actual_stock_value": "todo",
             "mentions": 12,
             "comments": [
                 {
@@ -729,7 +730,7 @@
                 },
                 {
                     "body": "Holy shit I thought I was the only one who lost big on TSM calls. After the drop from 140 I was sure it would bounce back to 140 again and never did. Meanwhile AMD and nvidia hit fresh highs in the same time period. Never lucky. FUK",
-                    "score": 42
+                    "score": 38
                 },
                 {
                     "body": "$TSM is solid so go ahead with it\u2026\u2026Godspeed,,,,, nope APEspeed!",
@@ -737,7 +738,7 @@
                 },
                 {
                     "body": "This single-handedly saves my portfolio every single time. I\u2019d basically lose it all on other calls and see TSM under 110\u2026 I yolo and make it all back. Then I proceed to lose it all again.",
-                    "score": 12
+                    "score": 14
                 },
                 {
                     "body": "I can't see TSM recovering any time soon. Still, the delta could close a bit.",
@@ -749,17 +750,17 @@
                 },
                 {
                     "body": "I saw you TSM loss and read that in my Rick Ross voice \"I'm down TWO TWENTY TWO\". At least you have till Jan",
-                    "score": 48
+                    "score": 47
                 },
                 {
                     "body": "Jokes on you, I already lost over 200k! What\u2019s another 200k on TSM",
                     "score": 7
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "GM",
+            "actual_stock_value": "todo",
             "mentions": 12,
             "comments": [
                 {
@@ -768,7 +769,7 @@
                 },
                 {
                     "body": "He\u2019s the guy who forced GM to close all the plants in non union states that out performed union plants right?\n\nEdit: I was thinking gettelfinger. I know who you are talking about now as the car czar. \n\nRemember another reason Tesla is so successful is the absolutely stupid response by GM to the 30 day strike back in 2018. That was the start is the supply chain problems that they never were able to correct before covid hit \n\nThey are building tens of thousands of incomplete cars that will sit there for years and end up being stripped and destroyed so they don\u2019t break the market. Just wait \n\nGM has become a pension fund that also makes cars",
-                    "score": 9
+                    "score": 8
                 },
                 {
                     "body": "False. Tesla\u2019s PE is falling faster than Biden\u2019s approval rating. I bet you that Tesla makes up 20% of all US cars sold in 2030. Their auto margins are already 30% and growing compared to 9% at GM. It\u2019s like BB CEO in 2007 making fun of IPhone; we are at at an inflection point that will look obvious 5 years from now.",
@@ -776,7 +777,7 @@
                 },
                 {
                     "body": "I mean GM and Ford are planning to largely shift to EV within the next 10 years",
-                    "score": 7
+                    "score": 6
                 },
                 {
                     "body": "Define \"largely\"? Ford plans to only have 40% of sales be EV in 2030. That doesn't sound like \"largely\" to me. GM 50% of sales EV by 2030. Sounds to me like they are planning to largely be irrelevant within 10 years.",
@@ -784,7 +785,7 @@
                 },
                 {
                     "body": "I have a feeling they won't get there till 2026, Ford and GM have been all talk. They're more focused on lobbying. I mean GM had a deal with NIKOLA....LMAO",
-                    "score": 8
+                    "score": 9
                 },
                 {
                     "body": "Middle America pickup buyers will be Ford/GM/Dodge like daddy did. They don't want the cyber truck.  They still buy gas hungry v8s when turbo engines exist that can match their output. There is no logic behind thes decisions. It's purely emotional.",
@@ -792,7 +793,7 @@
                 },
                 {
                     "body": "I don\u2019t understand how Tesla is more valuable than Toyota, GM, and Ford combined.",
-                    "score": 12
+                    "score": 11
                 },
                 {
                     "body": "It's overvalued but the name of the game with tech companies is better get in now than later.\n\nLook at how many people stated Netflix and Amazon were overvalued just years ago. No one wants to miss the ride on the way up. You can time it, sure. I think Tesla still has room to fall short-term. But long-term, in 5 years? This stock is going to look super affordable at the price you buy it now.\n\nI've been reading Tesla's 10-K for years now. The numbers and innovations they have planned is on a level that other auto manufacturers are not prepared for.\n\nThink about this fact: GM just publicly came out and stated they wanted to be like TESLA. Imagine a century old company wanting to be like a company that just five years ago, was on the verge of being bankrupt. The past five years for Tesla was literally make-or-break-it and they've made it to a point where EV's are not only sustainable but poised to take advantage of this new green energy movement mass governments have been trying to take charge in. Btw, GM plans to go fully EV by 2035. That means Tesla, at the very least, has many years ahead of them just by the simple fact that GM and other legacy automakers are still trying to figure out how to make EV's profitable without cannibalizing their core business, which atm and for the forseeable future, will be ICE vehicles.\n\nWhether it's overvalued or not, that's a separate discussion. But those who have been doubting TESLA thinking it's just a fad, talking about the regulatory credits and Musk's lunacy are missing out on the fact that Tesla is a legitimate company with some of the best people around the world working on their technology/product(s).",
@@ -800,7 +801,7 @@
                 },
                 {
                     "body": "Read the recent remarks from VW CEO Herbert Diess. He knew that Tesla isn't becoming merely a peer to big automakers. He openly admitted that VW will be crushed by Tesla in the coming years. \n\nThis is huge, coming from an industry leader. And he is also very wise to start rubbing shoulders with Elon now rather than making Tesla an enemy.  Meanwhile, Ford and GM are still in their bubble.",
-                    "score": 0
+                    "score": 2
                 },
                 {
                     "body": "I'm hardly seeing anybody in this thread mention [Tesla Energy](https://www.tesla.com/energy). All the talk and hype is about vehicle production and FSD but it's the batteries themselves that I'm seeing huge potential in. It's not just home solar and battery backup. They're also getting into grid backup. It's right there in the company mission statement: \"To accelerate the world's transition to sustainable energy.\"\n\nCars are just where they get started. The push to develop new battery technology, drive down costs and ramp up production of cells will have major ripple-effects of a world where massive energy storage is cheap and plentiful.\n\nVehicle production for Tesla in the future is going to look like book sales for Amazon. Google used to be just a search page. Apple used to just make computers. West coast tech companies tend to grow and develop far beyond their initial paths for profitability. So if you're looking for a reason why TSLA is still cheap there you go. Any comparisons to GM/Ford/VW/Toyota is like still comparing Amazon to Barnes and Noble or Apple to Hewlett-Packard.",
@@ -810,11 +811,11 @@
                     "body": "Nice try Mark, but this 8 year old son is about to beat Usain Bolt at the Olympics. Meanwhile Usain Bolt is getting slower every year.\n\nTesla will be more profitable than Ford has been since 2014 by Q4 or Q1 2022 and they're not slowing down. They'll also surpass GM in operating income next year. Even in terms of sales they're going to surpass Ford by 2023 and GM somewhere mid-decade.",
                     "score": 9
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "ICE",
+            "actual_stock_value": "todo",
             "mentions": 12,
             "comments": [
                 {
@@ -827,7 +828,7 @@
                 },
                 {
                     "body": "This argument that the competition is coming, is based on one thing. Inevitability. And it's backed up by the reasoning of 'of course they will'. That's it. That's the end of the argument. Because there's nothing deeper than that.\n\nThey don't have the cell supply. Research how much each company has access to. How much each one is planning on building, and when. Building an EV with a larger battery is WHOLEY different than building an ICE with a large tank.\n\nIn all the areas you're flat out WRONG:  \n'entire industry' - Toyota isn't even trying. They're planning over the next \\~4 years to make a factory with less than 1/3rd of Giga Nevada as of 2021 to pack them into hybrids.\n\nVW is in freak-the-fuck-out mode right now with multiple all-hands-on-deck meetings, fretting that Tesla has a MANUFACTURING ADVANTAGE over them. Start to finish for VW BEV? 30 hours. Tesla? 10. VW's GWh target by 2030? 240GWh. Tesla's? 3,000 GWh IN ADDITION to purchasing all they can from Panasonic, CATL, LG, etc. \n\nFord? Same story. Too small of a target, too far out.\n\nBookmark this. Set a reminder for 3 years. When we come back and look at the Q3 2024 results I expect Tesla to be doing better than 1.25-1.5M units A QUARTER. And all those sales will be cutting into legacy auto who will STILL be losing money on their EV sales and trying to prop themselves up with ICE that fewer and fewer people want.",
-                    "score": 17
+                    "score": 18
                 },
                 {
                     "body": "We\u2019ll see. The number of parts on an EV is so much lower than ICE. I\u2019m 2 years in on a model 3 and my maintenance so far is:",
@@ -835,7 +836,7 @@
                 },
                 {
                     "body": "Already has.  \n\nTesla has forced EVs into the mainstream, shown they are not short on power, range, or speed.  ICE Automakers had a constant \"15 year plan\" for EVs.  Now they are scrambling.",
-                    "score": 19
+                    "score": 20
                 },
                 {
                     "body": "That was more the VW scandal that brought ICE the bad rep. And this is the reason why VW is pushing hard on EV",
@@ -865,16 +866,16 @@
                     "body": "Unless the person you sold/traded your ICE car into likes wasting money it'll be sold to someone else.\n\nThe used car market is actually bigger than the new car market.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "AI",
+            "actual_stock_value": "todo",
             "mentions": 11,
             "comments": [
                 {
                     "body": "Tesla is not only a car company.  Its a tech, AI and energy infrastructure company, with the capability to pull off TAAS (Transportation as a Service).  Cars will be the bread and butter, but all those other things are just getting started.\n\nEdit: I forgot to mention insurance company as well",
-                    "score": 13
+                    "score": 14
                 },
                 {
                     "body": "Tesla energy. Tesla self driving. Tesla robots. Tesla AI. \n\nApple makes most of their profits on their phone. That's it. Everything else wouldn't give it legs to even being top 10 US companies.",
@@ -886,7 +887,7 @@
                 },
                 {
                     "body": "I taught myself. Its not hard. My favorite broker is Fidelity, they do a great job. They are also great rewatching how the whole thing works on their platform. I never invest anymore than I can afford to lose. I buy low (when a stock is down ticking) and I sell high. I used to trade stocks. Now I am an investor. So I buy in, add on down ticks, have an exit strategy. I love three cheap stocks now. You might wanna add them to a watchlist. And make a watchlist of  industry and companies you relate to and love. I own three cheap stocks right now. Two are oil stocks because we\u2019re in a pandemic and oil stocks tanked and are now climbing back. I like Marathon Oil (MRO), it\u2019s about $16.00 a share. I also like (REI) Ring  Energy. It\u2019s only $4.00 a share. I\u2019m also interested in AI and robotics. At just 3 CENTS a share, I bought a huge amount of AITX Artificial  Intelligence Technology Solutions this morning while it was down.  AITX is a penny stock sold on the OTC and risky. I recall reading \u201cinvesting for Idiots\u201d many moons ago. Good luck on this journey!",
-                    "score": 4
+                    "score": 3
                 },
                 {
                     "body": "Should be ez just with Austin and Berlin online....not even including energy or FSD/AI either of which could be bigger than the automotive....If either of those hit Elon's plans they'll have to break up Tesla as a monopoly....",
@@ -898,11 +899,11 @@
                 },
                 {
                     "body": "What does detached from reality mean?  You have a company that no one can compete with. Only one of those competitors has even Realized it \u2014Volkswagen.\n\nThey have what can only be interpreted as unlimited demand as their only challenge is making the cars faster. Oh and they are putting online two of the largest auto manufacturing plants in the world this quarter.\n\nVolkswagen and industry insiders say they need 5 years at least to catch up with innovations that have been in production from Tesla for months.  \n\nTesla has a 30% gross margin on autos and this is before the major innovations implemented in the two brand new factories. It also does not include the new batteries that cost 50% of what current batteries used.  This means that Tesla will eventually be pushing out units with 50% gross margins that eventually will be majority of fleet.  Meanwhile legacy auto makes uncompetitive units that have a negative gross margin.\n\nThe demand for EVs is a one way street and currently people would rather wait 6 months for a Tesla than to buy a cheaper ice, largely because it is a terrible purchase to buy a completely obsolete car for $40K vs a $60K Tesla which has realized virtually zero depreciation over last 3 years.\n\nThe manufacturing prowess and brand leadership of Tesla auto alone justifies price. But you get the free options on Tesla\u2019s AI and energy business. \n\nNot owning Tesla at $900 per share is just plain stupid.",
-                    "score": 1
+                    "score": 2
                 },
                 {
                     "body": "Once again Tesla is hardly an auto company. They are a tech company who want to be an AI company.",
-                    "score": 1
+                    "score": 2
                 },
                 {
                     "body": "I think people kind of miss the forest for the trees on automotive manufacturing. EV and self driving is the future and Tesla is positioned like Google to absorb a lot of that market (even if they just sell the AI to Ford or whatever)\n\nNow ...I don't really know how to value a stock for that stuff, so it may still be overvalued but who knows",
@@ -916,11 +917,11 @@
                     "body": "The price increase had NOTHING to do with the AI day presentation. You thinking this explains why you sold. You don\u2019t know what you are doing.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "CEO",
+            "actual_stock_value": "todo",
             "mentions": 10,
             "comments": [
                 {
@@ -933,19 +934,19 @@
                 },
                 {
                     "body": "Seriously, is there even a remote chance BOA CFO and CEO are forging financial statements after Sarbanes\u2013Oxley? Then throw Dodd-Frank's foot up their balance sheets ass and there is a 0% chance there are \"hidden bonds\" BOA is exposed to. \n\nAnd now I want to know who we is? Like, does OP have a mouse in his pocket?",
-                    "score": 6
+                    "score": 7
                 },
                 {
                     "body": "Sorry. I cannot labor for your convenience. You can take the statement on its face value, or not. \n\nMy position is that Wells Fargo has been fined billions of dollars for creating fake accounts, altering due diligence required to operate within the banking system within the United States, replaced two CEO within the last 5 years because of fraud, and so my position is that with this level of fraud it would not be a stretch that their malfeasance would also extend to the commercial side of the banks loan book.\n\nWouldn't you agree? Perhaps you have no idea what I am talking about because you are not a shareholder?\n\nAre maybe you are young and just have no experiential knowledge, or life experience to make this connection.\n\nSo enjoy the discussion. But 90% of Reddit users always reply with: show me, tell me, that's not true, etc. with no ability to think, or connect dots.",
-                    "score": -26
+                    "score": -24
                 },
                 {
                     "body": ">Seriously, is there even a remote chance BOA CFO and CEO are forging financial statements after Sarbanes\u2013Oxley? Then throw Dodd-Frank's foot up their balance sheets ass and there is a 0% chance there are \"hidden bonds\" BOA is exposed to.\n\nDon't worry about all that diligence telling you this is dumb af claim to make.... you just got to belieeeeeve",
-                    "score": 9
+                    "score": 10
                 },
                 {
                     "body": "Read the recent remarks from VW CEO Herbert Diess. He knew that Tesla isn't becoming merely a peer to big automakers. He openly admitted that VW will be crushed by Tesla in the coming years. \n\nThis is huge, coming from an industry leader. And he is also very wise to start rubbing shoulders with Elon now rather than making Tesla an enemy.  Meanwhile, Ford and GM are still in their bubble.",
-                    "score": 0
+                    "score": 2
                 },
                 {
                     "body": "[https://youtu.be/bW9p7RVJq1M?t=13](https://youtu.be/bW9p7RVJq1M?t=13)\n\n[https://www.youtube.com/watch?v=N1MkUrwgHN0](https://www.youtube.com/watch?v=N1MkUrwgHN0)\n\nI've been watching Lar's YT recently. It may be another fanboi channel, but I really like that he summarizes the numbers, which you can also validate.  There are a few good screenshots of VW's recent tweets.  And most recently, the CEO also tweeted inviting Elon to VW top exec meeting. I'm now also following Diess's twitter.",
@@ -957,30 +958,30 @@
                 },
                 {
                     "body": "1. Think about all the data they can obtain from the platform. Whether it\u2019s consumer behaviour or something else, Pinterest is the go-to place to get that, since Pinterest\u2019s users are ready to spend money. \n\n2. Pinterest would be a very good addition to the \n\u201dSuper App\u201d PayPal is launching. Imagine how flawless it could be to shop a certain Pin and pay it with PayPal or Venmo.\n\n3. Dan Schumann is a very good CEO. They have turned Venmo to profitability for the first time now and they\u2019ll achieve even better results. Pinterest is also now cash flow positive and PayPal can take it to another level as they\u2019ve shown (with Venmo).\n\n4. Social commerce is expected to grow at a 20-25% annual growth rate for the next 5 years. It will be a $700 billion industry in 2026 (according to a WSJ article). Lots of possibilities here.",
-                    "score": 16
+                    "score": 15
                 },
                 {
                     "body": "Intel remains, fundamentally, a stock that I believe in. Yes, AMD is absolutely eating their lunch and NVIDIA is, frankly, in a league of their own, however, Intel has a relatively new CEO that has TONS of experience in the game and is turning this titanic sized company around --- it just takes time. \n\nThey are going to start competing with the like of Taiwan Semi on the fab side of the business and, fundamentally, I would argue, they are the strongest positioned chip company.\n\n$23 Billion of cash on hand against $36 billion of long term debt.\n\nMore importantly, the company is clearing, after tax net income of over $20 billion each and every year, which is expected to continue WITH dividend raises.\n\nThe companies future growth prospects will rely on one thing and one thing alone: Execution! If the company can start to execute, they have incredible fundamentals and can buy anything and everything they want. \n\nThis is why I have a significant stake in Intel and will continue to hold.\n\nLONG INTC. LONG AMD. LONG NVIDIA.",
-                    "score": 18
+                    "score": 17
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "Y",
+            "actual_stock_value": "todo",
             "mentions": 9,
             "comments": [
                 {
                     "body": "BOY DO I HAVE ADVICE FOR Y\u2019ALL THEN. \n\nBuy ramen packet. \nBuy an onion. \nBuy some butter. \nBuy some cheese. \n\nCaramelize onion in pot with small amount of butter and ramen seasoning packet. \n\nAdd noodles plus water to cook the noodles. \n\nTransfer to oven safe eating bowl. \n\nAdd cheese on top of that ish. \n\nBroil the cheese in the oven for like 2 minutes or whatever, make sure that shit\u2019s GOLDEN. \n\nPull it out. Eat. \n\nBelly profits for cheap. \n\nThank me later ya degenerates.",
-                    "score": 5
+                    "score": 6
                 },
                 {
                     "body": "Y\u2019all bears need to notice how their margins continue to increase and they\u2019re growing more than 50 percent a year m. Or just stay poor",
-                    "score": 11
+                    "score": 13
                 },
                 {
                     "body": "When tesla has basically pushed all their resources after 15 years to the cheap 3 and Y because nobody really wants the expensive ones why are all these new startups pushing 100k cars destined to fail . Any car lover spending 100k + will get the Porsche , benz or the plaid .\n\nNobody will gain market share in America over the next 5-10 years unless a legacy company like Ford or Toyota says \u201c we are done with gas and putting all our money into EV \u201c and that will never happen until it\u2019s too late . \n\nIt\u2019s like Walmart watching Amazon grow for 15-20 years before finally investing in e-commerce .\n\nI\u2019m thinking about dumping everything into tesla as I see more and more shit EV startups popping  up",
-                    "score": 12
+                    "score": 13
                 },
                 {
                     "body": "Ever heard of FSD?  it'll be bigger than the iphone and the model 3/Y(even the 25k Tesla) as a revolutionary product.  you'll see, it'll be 1T+ by itself if it was a separate company...and the energy grid potential is just as big as FSD, possibly bigger but will take much longer as solar and battery production is limited.",
@@ -996,7 +997,7 @@
                 },
                 {
                     "body": "1)Operating Leverage 2) Cost Control 3) Selling more Model S (high ASP vehicle) 4) Began exporting more cars to Europe from Shanghai, with the many of these first deliveries likely being the more expensive models (like performance model 3/Y), another positive boost to ASP/margins.\n\nThis stuff really isn\u2019t hard, rather than assume illegal manipulation of financials please just do some due diligence.",
-                    "score": 3
+                    "score": 2
                 },
                 {
                     "body": "> Please tell me why would Elon present a product ~5 years in advance with full specs as if the product was around the corner to the consumer and then collect deposits.\n\nBecause they already had working prototypes as you could see. Like I said (but I guess reading is difficult when you're up to your nose in confirmation bias), they are extremely battery constraint so making the Semi or Cybertruck today makes no sense from a business standpoint. They couldn't have known there'd be so much demand for the Model 3/Y that they have up to a year waiting times after they increased production 100%.\n\n> Lets now compare this example to $APPL, who just released their M1 pro and M1 max which was under wraps for many years.\n\nIt's a very different story when your market is fully saturated and you're just trying to get new products out to create new demand of course. That's a very dumb comparison.\n\n> I guess based on your logic its \u201cokay\u201d to announce product years in advance which clearly doesn\u2019t exist at the time of announcement, but we\u2019re \u201cworking\u201d towards it.\n\nI mean, they were right there. People have taken test drives in the Roadster and Cybertruck and the Semis have been driving around being used for Tesla's internal logistics. Clearly they exist.\n\n> I think by definition that is termed fraud.\n\nEven if what you said was true, which it clearly isn't, it's not fraud if you do have serious intentions of releasing the product and you don't lie about having a prototype you don't have like Nikola did. You can say what you want about your plans in the future, you just can't lie about the present or past. THAT is fraud.",
@@ -1006,11 +1007,11 @@
                     "body": "They\u2019re becoming a super app with in app purchases / affiliate links. Y\u2019all acting like they bought a donut shop",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "F",
+            "actual_stock_value": "todo",
             "mentions": 9,
             "comments": [
                 {
@@ -1049,11 +1050,11 @@
                     "body": "Start out investing in the blue bloods. Once you have skin in the game you will start to watch the market more and get a better understanding of what is going on. I\u2019d recommend the F.A.G.M.A.N approach: FB, Amzn, Googl, msft, appl, nvda.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "DRI",
+            "actual_stock_value": "todo",
             "mentions": 8,
             "comments": [
                 {
@@ -1082,17 +1083,17 @@
                 },
                 {
                     "body": "There is a good dip on $DRI right now. Just bought some calls for next month.",
-                    "score": 5
+                    "score": 6
                 },
                 {
                     "body": "Who knows about the long term for Olive Garden but my Calls expire next month so I'm hoping I'm right that it's oversold and goes back up this week or next week then I'll probably close out unless I think I have a good chance to go from OTM to ITM.\n\nI can't speak for everywhere or everyone but in Los Angeles restaurants are packed more than ever (all types of restaurants - cheap, middle, expensive). $DRI delivered great earnings about a month ago went up big and then corrected a bit after. Seems like a good momentum stock.",
                     "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "QQQ",
+            "actual_stock_value": "todo",
             "mentions": 7,
             "comments": [
                 {
@@ -1101,7 +1102,7 @@
                 },
                 {
                     "body": "I've never been more loaded to the tits in options. Idk what's gonna happen the rest of this week but I'm gonna either make a ton or lose a ton like the degenerate gambler I am.\n\n170 SPY 420P 10/29 \n45 QQQ 376C 10/22",
-                    "score": 12
+                    "score": 13
                 },
                 {
                     "body": "$10million Jan 2020 QQQ Put order placed today at the ASK \n\n$10 million Jan 2022 Spy Put Order placed today above ask \n\nEnd of day\n\nProbably nothing",
@@ -1113,7 +1114,7 @@
                 },
                 {
                     "body": "Look into ETFs if you're a beginner in the stock market, especially if your goal is to invest long term:\n\n* QQQ - Invesco QQQ Trust (very good if you plan on selling covered calls every other day)\n* IWF - iShares Russell 1000 Growth ETF\n* VTI - Vanguard Total Stock Market Index Fund ETF (good for the shorter end of long-term time horizons)\n* JIG - JPMorgan International Growth ETF",
-                    "score": 10
+                    "score": 11
                 },
                 {
                     "body": "I would also recommend a good portion of ETF's (VTI, VXUS, mby QQQ, etc...). \n\nHowever: 2 years is NOT a long investment horizon. Market might crash and you would just lose money. If you aim for like 10+ years, the market will almost certainly recover from any crash and be up higher than now. (*This is not financial advice.*)\n\nThat said, if you want to invest in stocks, you can have a look at what the 'superinvestors' are doing: [https://www.dataroma.com/m/managers.php](https://www.dataroma.com/m/managers.php)  I'd still recommend you only buy stocks where you understand the company and did your own research, but looking at what the most successful investors are doing can be a good starting point for further investigation.",
@@ -1123,11 +1124,11 @@
                     "body": "Investing and stock picking is one of the most interesting applications of epistemology, mostly because it\u2019s high stakes and gives you real-time feedback. \n\nWhen \u201cresearching\u201d a company, you know what you know, but you can never know what you don\u2019t know. The what-you-don\u2019t-knows are what will kill you. \n\nThe reason people suggest index funds (VOO, VTI, QQQ, SCHD etc) is because they essentially act as a hedge against ignorance. If you\u2019re not very knowledgeable and don\u2019t have a lot of spare time for research, this applies to you.",
                     "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "AMZN",
+            "actual_stock_value": "todo",
             "mentions": 7,
             "comments": [
                 {
@@ -1148,7 +1149,7 @@
                 },
                 {
                     "body": "I've been trading AMZN for \"a living\" for the past few years.\n\nLet's just say the name of the game is uh... not to become bankrupt.\n\nAnyways the minute AMZN breaks out of this year long channel tho! $$$",
-                    "score": 31
+                    "score": 32
                 },
                 {
                     "body": "I\u2019ve been trying to trade AMZN this year and it\u2019s been rough. So many fake outs and getting vaporized on put and call sides.",
@@ -1156,13 +1157,13 @@
                 },
                 {
                     "body": "When people talk about value, they don't usually talk future projections. It's overvalued now based on the share price but in 3-5 years, it wouldn't be seen as overvalued. My point of emphasis is to show that you can either sit idle and cry about it being overvalued or watch the stock continue gaining momentum like AMZN/NFLX did.\n\nWho doesn't own TESLA? Average share price is around $120. Made enough to buy all the Tesla models out including the roadster but I'm sitting and adding more. Think you gotta read or interpret more clearly next time.",
-                    "score": 6
+                    "score": 5
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "B",
+            "actual_stock_value": "todo",
             "mentions": 6,
             "comments": [
                 {
@@ -1187,13 +1188,13 @@
                 },
                 {
                     "body": "On top of that everybody's still comparing Tesla to car companies. That's like comparing Google to Yahoo, Amazon to B&N or Apple to HP. Tesla Energy is still flying under the radar. Even if you only focus on their vehicle production growth it's clearly not over-valued. If you realize it's a west coast tech company and therefore will grow and develop like any other west coast tech company the stock still looks cheap.",
-                    "score": 3
+                    "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "FCF",
+            "actual_stock_value": "todo",
             "mentions": 6,
             "comments": [
                 {
@@ -1202,7 +1203,7 @@
                 },
                 {
                     "body": "3rd straight quarter of hardly any change in YoY FCF",
-                    "score": -14
+                    "score": -13
                 },
                 {
                     "body": "I wouldn't look too much at comparing FCF YoY. It's at the whim of how much Tesla wants to spend on ramping up manufacturing and also building factories for that quarter. What's impressive is their skyrocketing operational cash flow, and knowing that at some point Tesla won't be building expensive factories anymore",
@@ -1214,17 +1215,17 @@
                 },
                 {
                     "body": "If your cars are selling like hot cakes, and your making them profitably, then you should be showing an increase in FCF over such a short period of time.",
-                    "score": 0
+                    "score": 1
                 },
                 {
                     "body": "Of course not. You can just increase spending on new stuff like... let's say... two factories that will each produce more cars than your total production capacity from your existing two factories to increase your growth rate. No need to increase FCF as long as you still have plenty of options to invest in with a decent ROI.",
-                    "score": 3
+                    "score": 4
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "M",
+            "actual_stock_value": "todo",
             "mentions": 5,
             "comments": [
                 {
@@ -1247,11 +1248,11 @@
                     "body": "I started at 14 and kicking myself for not starting at W\u0338\u0314\u0346\u0315\u0350\u033e\u0303\u030b\u030c\u0345\u0318\u0322\u0345\u033c\u033cI\u0336\u0310\u035d\u0314\u033d\u0311\u034b\u0348\u0353\u0354\u0317\u0317T\u0334\u0314\u0341\u0341\u0314\u0306\u0311\u033a\u031f\u033a\u0347\u0319\u032f\u0323\u0339\u0326H\u0338\u033e\u034a\u0303\u030c\u0343\u030a\u0305\u0342\u0341\u0301\u0360\u0305\u0340\u030c\u030d\u0354\u0330\u0345\u0355\u0328\u035a\u0329\u0329\u0353\u032c\u0339\u0333\u035cI\u0336\u033d\u0351\u0304\u0346\u0352\u0309\u0343\u0312\u0310\u0305\u0358\u0360\u032d\u0359\u033c\u033c\u0327\u0332\u032b\u035a\u032aN\u0338\u033f\u031b\u030b\u0315\u033d\u0321\u0348\u0318\u033b\u031c\u031e\u0331\u0328\u032e\u0359\u0321\u032d\u0332\u0328 \u0334\u034b\u030a\u0347\u0356\u0348\u0333\u031d\u0321\u0320\u032e\u0325\u0356\u0356\u0317\u0347\u0330T\u0334\u0340\u030f\u034c\u0314\u0314\u0341\u030d\u0300\u0346\u0304\u0308\u035b\u0313\u0322\u035a\u0330\u0318\u0323\u0321\u031f\u0328\u0353\u031f\u032e\u0355\u0325\u034eH\u0335\u033e\u033a\u0331\u032a\u0319\u032c\u032eE\u0338\u0357\u030a\u0344\u030a\u0314\u0351\u031b\u0346\u030c\u035d\u0313\u0327\u033c\u0333\u032a\u0347\u032b\u035c\u035c\u0327\u0353\u0339\u034e\u0320\u031d\u0329 \u0335\u0315\u0313\u030d\u0350\u0344\u035d\u0311\u0301\u031e\u0317\u032b\u0325\u035c\u0329\u0328\u0323\u0356\u0345\u0316\u032aW\u0335\u0342\u0360\u0309\u033f\u033e\u035b\u0351\u0309\u030d\u0303\u0309\u0339O\u0335\u0352\u0346\u0342\u0308\u031b\u034c\u034c\u032c\u033c\u0355\u035c\u0332\u0321\u032c\u0347M\u0336\u0306\u0351\u0312\u030a\u031a\u030e\u0306\u035a\u035a\u0348\u0324\u033bB\u0335\u0312\u0301\u0302\u030f\u034b\u0342\u0303\u0352\u0301\u0303\u0351\u0324\u0331\u0354\u031c\u032a\u0339\u034d\u0330\u034d\u0330\u032d\u0331\u0356\u0354\u0328",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "TLRY",
+            "actual_stock_value": "todo",
             "mentions": 5,
             "comments": [
                 {
@@ -1260,34 +1261,34 @@
                 },
                 {
                     "body": "BB shorts hard at work! I\u2019m holding!\nBB, TLRY to the moon!",
-                    "score": 10
+                    "score": 9
                 },
                 {
                     "body": "It looks like you want to create a banbet. Say the following command.\n\n```\n !banbet BB +1% 1d TLRY +1% 1d\n```\n\n^This ^is ^a ^test. ^Collecting ^data, ^sorry ^if ^it's ^being ^dumb.",
-                    "score": -5
+                    "score": -3
                 },
                 {
                     "body": "TLRY \ud83d\ude80",
-                    "score": 11
+                    "score": 13
                 },
                 {
                     "body": "TLRY \ud83e\udd29\ud83d\ude80\ud83e\udd29\ud83d\ude80\ud83e\udd29\ud83d\ude80",
-                    "score": 9
+                    "score": 8
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "U",
+            "actual_stock_value": "todo",
             "mentions": 5,
             "comments": [
                 {
                     "body": "Only U.S stocks moon. International stocks are not allowed to moon.",
-                    "score": 8
+                    "score": 7
                 },
                 {
                     "body": "China is having a 2008 moment but much bigger. The top of the market in the U.S happened in 2007 took a while to materialize to a recession. This could take a year or two before we really feel what its like when the second-biggest economy enters a recession",
-                    "score": 20
+                    "score": 19
                 },
                 {
                     "body": "Why would U.S. housing bubble of the lat 2000's cripple as many businesses as it did...",
@@ -1301,11 +1302,11 @@
                     "body": "U should now look to the future. Look at all that talk about metaverse and low carbon energy",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "ATH",
+            "actual_stock_value": "todo",
             "mentions": 5,
             "comments": [
                 {
@@ -1318,7 +1319,7 @@
                 },
                 {
                     "body": "Imagine not thinking next week we\u2019ll be soaring past ATH\u2019s. November- January continuation.",
-                    "score": 8
+                    "score": 7
                 },
                 {
                     "body": "Priced in? seeing the S&P is hovering near it's previous ATH\n\nwhat do the big boys really know? are they going to pull the rag underneath us?\n\nI want to have a crystal ball....",
@@ -1328,11 +1329,11 @@
                     "body": "my advice: Don\u2019t buy into oil, especially MRO it\u2019s at ATH right now.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "AAPL",
+            "actual_stock_value": "todo",
             "mentions": 4,
             "comments": [
                 {
@@ -1345,17 +1346,17 @@
                 },
                 {
                     "body": "TSLA will be similar to the cheap smartphones with very thin margins.\n\nCars aren't priced like tech gadgets and TSLA won't have the brand recognition/software exclusivity to prop up artificially high prices like AAPL.\n\nIn fact TSLA has behaved exactly like cheap smartphone brands so far, repeated slashing prices where possible to maintain pricing competitiveness. AAPL would never play ball to compete on price vs Xiaomi, TSLA is.",
-                    "score": -3
+                    "score": -2
                 },
                 {
                     "body": "Puts on AAPL",
-                    "score": 31
+                    "score": 35
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "T",
+            "actual_stock_value": "todo",
             "mentions": 4,
             "comments": [
                 {
@@ -1374,20 +1375,20 @@
                     "body": "I started at 14 and kicking myself for not starting at W\u0338\u0314\u0346\u0315\u0350\u033e\u0303\u030b\u030c\u0345\u0318\u0322\u0345\u033c\u033cI\u0336\u0310\u035d\u0314\u033d\u0311\u034b\u0348\u0353\u0354\u0317\u0317T\u0334\u0314\u0341\u0341\u0314\u0306\u0311\u033a\u031f\u033a\u0347\u0319\u032f\u0323\u0339\u0326H\u0338\u033e\u034a\u0303\u030c\u0343\u030a\u0305\u0342\u0341\u0301\u0360\u0305\u0340\u030c\u030d\u0354\u0330\u0345\u0355\u0328\u035a\u0329\u0329\u0353\u032c\u0339\u0333\u035cI\u0336\u033d\u0351\u0304\u0346\u0352\u0309\u0343\u0312\u0310\u0305\u0358\u0360\u032d\u0359\u033c\u033c\u0327\u0332\u032b\u035a\u032aN\u0338\u033f\u031b\u030b\u0315\u033d\u0321\u0348\u0318\u033b\u031c\u031e\u0331\u0328\u032e\u0359\u0321\u032d\u0332\u0328 \u0334\u034b\u030a\u0347\u0356\u0348\u0333\u031d\u0321\u0320\u032e\u0325\u0356\u0356\u0317\u0347\u0330T\u0334\u0340\u030f\u034c\u0314\u0314\u0341\u030d\u0300\u0346\u0304\u0308\u035b\u0313\u0322\u035a\u0330\u0318\u0323\u0321\u031f\u0328\u0353\u031f\u032e\u0355\u0325\u034eH\u0335\u033e\u033a\u0331\u032a\u0319\u032c\u032eE\u0338\u0357\u030a\u0344\u030a\u0314\u0351\u031b\u0346\u030c\u035d\u0313\u0327\u033c\u0333\u032a\u0347\u032b\u035c\u035c\u0327\u0353\u0339\u034e\u0320\u031d\u0329 \u0335\u0315\u0313\u030d\u0350\u0344\u035d\u0311\u0301\u031e\u0317\u032b\u0325\u035c\u0329\u0328\u0323\u0356\u0345\u0316\u032aW\u0335\u0342\u0360\u0309\u033f\u033e\u035b\u0351\u0309\u030d\u0303\u0309\u0339O\u0335\u0352\u0346\u0342\u0308\u031b\u034c\u034c\u032c\u033c\u0355\u035c\u0332\u0321\u032c\u0347M\u0336\u0306\u0351\u0312\u030a\u031a\u030e\u0306\u035a\u035a\u0348\u0324\u033bB\u0335\u0312\u0301\u0302\u030f\u034b\u0342\u0303\u0352\u0301\u0303\u0351\u0324\u0331\u0354\u031c\u032a\u0339\u034d\u0330\u034d\u0330\u032d\u0331\u0356\u0354\u0328",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "WISH",
+            "actual_stock_value": "todo",
             "mentions": 4,
             "comments": [
                 {
                     "body": "Why not splurge and get a share of $WISH",
-                    "score": 7
+                    "score": 6
                 },
                 {
                     "body": "TSLA runs over 2000% over the past 24 months and my guy buys in NOW.  \n  \nIt is entirely possible this continues squeezing and gets back to nearly 3K again like it did last year though so it's not like you buying **WISH** on every hype or something like that.",
-                    "score": 11
+                    "score": 12
                 },
                 {
                     "body": "Only $WISH ing",
@@ -1395,13 +1396,13 @@
                 },
                 {
                     "body": "Everytime I see WISH lossporn I remember that awful week where everyone kept posting their $WISHes and i\u2019m happy\n\nFucking cringy shit hold those bags",
-                    "score": 10
+                    "score": 9
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "D",
+            "actual_stock_value": "todo",
             "mentions": 4,
             "comments": [
                 {
@@ -1420,16 +1421,16 @@
                     "body": ">  It has a PE ratio of 482 for Christ sakes!!!!!\n\nIt used to have a PE ratio of 1200+ :D",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "PYPL",
+            "actual_stock_value": "todo",
             "mentions": 4,
             "comments": [
                 {
                     "body": "PYPL oversold and will rise from the ashes and probably shit itself with another dumb idea like selling heroin",
-                    "score": 7
+                    "score": 8
                 },
                 {
                     "body": "PYPL extremely oversold today",
@@ -1437,17 +1438,17 @@
                 },
                 {
                     "body": "Who\u2019s eyeing the PYPL dip \ud83d\udc40",
-                    "score": 6
+                    "score": 5
                 },
                 {
                     "body": "It is rumor, neither paypal, not PINS confirmed it. Wait for 10-15 days, all rumors will go as some big banks/funds buying PYPL shares at deep discount.\n\nI keep buying PYPL now as they have results next week.",
-                    "score": 9
+                    "score": 11
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "MSFT",
+            "actual_stock_value": "todo",
             "mentions": 4,
             "comments": [
                 {
@@ -1466,16 +1467,16 @@
                     "body": "MSFT will go back down to the 290s (temporarily) and people will be like \"oh the humanity!\"",
                     "score": 3
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "INTC",
+            "actual_stock_value": "todo",
             "mentions": 4,
             "comments": [
                 {
                     "body": "Intel remains, fundamentally, a stock that I believe in. Yes, AMD is absolutely eating their lunch and NVIDIA is, frankly, in a league of their own, however, Intel has a relatively new CEO that has TONS of experience in the game and is turning this titanic sized company around --- it just takes time. \n\nThey are going to start competing with the like of Taiwan Semi on the fab side of the business and, fundamentally, I would argue, they are the strongest positioned chip company.\n\n$23 Billion of cash on hand against $36 billion of long term debt.\n\nMore importantly, the company is clearing, after tax net income of over $20 billion each and every year, which is expected to continue WITH dividend raises.\n\nThe companies future growth prospects will rely on one thing and one thing alone: Execution! If the company can start to execute, they have incredible fundamentals and can buy anything and everything they want. \n\nThis is why I have a significant stake in Intel and will continue to hold.\n\nLONG INTC. LONG AMD. LONG NVIDIA.",
-                    "score": 18
+                    "score": 17
                 },
                 {
                     "body": "They're both fighting for what seems to be a *shrinking* x86 market. I don't deny AMD's growth but both INTC and AMD must expand significantly beyond the x86 market if they want to stay relevant. AMD has GPUs already but no FPGAs yet (XLNX acquisition is not complete) while INTC has FPGAs but no GPUs yet (soon-ish).",
@@ -1489,16 +1490,16 @@
                     "body": "I will defer to your expertise on that front. I just know that Intel has fantastic financials and, while their product may be inferior / less relevant / etc...someone is buying it (myself included as me, personally, I only use Intel and NVIDIA and, for what I do with gaming / investing / real estate, the chips work fantastically). \n\nThat being said I own AMD shares as well. \n\nI think they can all succeed as, during this technological revolution, virtually everything we do is using a chip of some sort so, over time, I think all of these companies can co-exist with eachother and, beyond that, can all show promising growth prospects. \n\nSemi's are a part of everyone's life now and I foresee that trend to continue to expand, rapidly, in years to come.\n\nAs I said before: Long INTC, Long AMD, Long NVIDIA.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "ALL",
+            "actual_stock_value": "todo",
             "mentions": 3,
             "comments": [
                 {
                     "body": "BOY DO I HAVE ADVICE FOR Y\u2019ALL THEN. \n\nBuy ramen packet. \nBuy an onion. \nBuy some butter. \nBuy some cheese. \n\nCaramelize onion in pot with small amount of butter and ramen seasoning packet. \n\nAdd noodles plus water to cook the noodles. \n\nTransfer to oven safe eating bowl. \n\nAdd cheese on top of that ish. \n\nBroil the cheese in the oven for like 2 minutes or whatever, make sure that shit\u2019s GOLDEN. \n\nPull it out. Eat. \n\nBelly profits for cheap. \n\nThank me later ya degenerates.",
-                    "score": 5
+                    "score": 6
                 },
                 {
                     "body": "GUESS WHO DIDNT SELL AND LOST ALL THERE GAINS AGAIN? THIS RETARD. I hate myself with all my might",
@@ -1508,11 +1509,11 @@
                     "body": "Pretty sure you\u2019re the same fellow who professed loudly in the middle of Q3 that Tesla would badly miss production/delivery estimates in Q3. Then, when you were horrendously wrong, you moved the goal posts and claimed that they should have beat by more than they did\u2026 not AT ALL what you said previously. \n\nHow\u2019s clown college going? Did you increase your C- average to a C+ yet? I believe in you.",
                     "score": 3
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "USA",
+            "actual_stock_value": "todo",
             "mentions": 3,
             "comments": [
                 {
@@ -1527,11 +1528,11 @@
                     "body": "Hate to break it to you but with a couple of incredibly rare exceptions and Indians reservations, it\u2019s exactly the same in the USA; you\u2019re leasing your land your house sits on from the state who can technically take it back any time they want.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "PLTR",
+            "actual_stock_value": "todo",
             "mentions": 3,
             "comments": [
                 {
@@ -1544,13 +1545,13 @@
                 },
                 {
                     "body": "If PLTR is such a good hacking/data computer shit bs company then why cant they hack into the market and make their own stock worth at least $100? Riddle me that PLTR tards",
-                    "score": 9
+                    "score": 8
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "NET",
+            "actual_stock_value": "todo",
             "mentions": 3,
             "comments": [
                 {
@@ -1559,17 +1560,17 @@
                 },
                 {
                     "body": "also it's not just about a car that is electric. It's the tech and software. I have yet to see another EV that can play netflix....NET FUCKING FLIX. Also next generation only talk about Tesla. No one wants the same fucking gasoline car that happens to be electric. EVs have a higher bar.",
-                    "score": 2
+                    "score": 1
                 },
                 {
                     "body": "No news about NET here, but expect that to drop to 150s in the coming week or two. Fundamentals point towards a steep decline.",
-                    "score": 7
+                    "score": 5
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "PM",
+            "actual_stock_value": "todo",
             "mentions": 3,
             "comments": [
                 {
@@ -1578,17 +1579,17 @@
                 },
                 {
                     "body": "I will be messaging you in 9 days on [**2021-10-30 03:55:56 UTC**](http://www.wolframalpha.com/input/?i=2021-10-30%2003:55:56%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/wallstreetbets/comments/qcbh1d/tesla_breaks_profit_record_at_16_billion/hhgadbl/?context=3)\n\n[**12 OTHERS CLICKED THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fwallstreetbets%2Fcomments%2Fqcbh1d%2Ftesla_breaks_profit_record_at_16_billion%2Fhhgadbl%2F%5D%0A%0ARemindMe%21%202021-10-30%2003%3A55%3A56%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20qcbh1d)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
-                    "score": 5
+                    "score": 6
                 },
                 {
                     "body": "I will be messaging you in 2 years on [**2023-10-21 17:47:26 UTC**](http://www.wolframalpha.com/input/?i=2023-10-21%2017:47:26%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/stocks/comments/qcta8w/tsla_hitting_900_a_share/hhimc3b/?context=3)\n\n[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fstocks%2Fcomments%2Fqcta8w%2Ftsla_hitting_900_a_share%2Fhhimc3b%2F%5D%0A%0ARemindMe%21%202023-10-21%2017%3A47%3A26%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20qcta8w)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "FB",
+            "actual_stock_value": "todo",
             "mentions": 3,
             "comments": [
                 {
@@ -1603,11 +1604,11 @@
                     "body": "Start out investing in the blue bloods. Once you have skin in the game you will start to watch the market more and get a better understanding of what is going on. I\u2019d recommend the F.A.G.M.A.N approach: FB, Amzn, Googl, msft, appl, nvda.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "X",
+            "actual_stock_value": "todo",
             "mentions": 3,
             "comments": [
                 {
@@ -1622,68 +1623,68 @@
                     "body": "Nah, that's probably correct. But do keep in mind Model S was barely profitable this quarter while Model X wasn't even sold yet. Once those two are fully ramped that'll increase margins quite significantly first. After that we'll probably see a small dip as Berlin and Texas ramp up, but once those are ramped it'll skyrocket again as scale increases, deliveries no longer need to be shipped around the planet and the single piece casting machines come into play.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "IBM",
+            "actual_stock_value": "todo",
             "mentions": 3,
             "comments": [
                 {
                     "body": "If you invested $10,000 in IBM 10 years ago, you'd have *checks notes* less money.",
-                    "score": 137
+                    "score": 138
                 },
                 {
                     "body": "IBM:\n\n> EPS $2.52 v 2.53 expected\n\n> Revenue $17.62b v 17.78b expected\n\nTo Tesla bulls' credit, at least you aren't IBM bulls",
-                    "score": 6
+                    "score": 8
                 },
                 {
                     "body": "IBM is basically a tobacco company at this point.",
-                    "score": 8
+                    "score": 7
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "TV",
+            "actual_stock_value": "todo",
             "mentions": 3,
             "comments": [
                 {
                     "body": "Wife thinks she can win an argument by relegating   me to the couch. \ud83d\ude02 \n\nI now have a 65\u201d TV, stereo system, 2 dogs, and a whole sectional sofa to myself. Congratulations, you played yourself.",
-                    "score": 36
+                    "score": 37
                 },
                 {
                     "body": "**2042**-\n\n**Your son:** Dad, can I have $200 for the bus tomorrow?  They increased the fare to $100 each way yesterday.\n\n**You**: Oh gosh darnit, again?! It was $93 last month...\n\n**Your wife's boyfriend**: Quiet down out there, your mother is servicing me.\n\n**You:** Sorry, Chad!\n\n**Your son:** Dad, how come you only get paid $140/hr but things are so expensive?\n\n**You:** Well, you see son... something called hyperinflat....\n\n*The TV blares in the background.  OnlyFansNews, the nation's leading subscription news and porn combo service is on the air.  A scantily dressed news anchor begins her pole dance*\n\n>In other news, the Fed prints its 82nd trillion in USD today.  Perome Jowell eases the nation that the inflation rates seen last month of 16% Month over Month are transitory.  \"On this 23rd year of COVID, we will prevail and inflation will eventually be under control\"",
-                    "score": 58
+                    "score": 54
                 },
                 {
                     "body": "Whenever I feel like modern life is making me too soft I binge watch Band of Brothers. Really puts into perspective people bitching about stupid shit like video cards being out of stock or people saying mean things on TV",
                     "score": 20
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "NFLX",
+            "actual_stock_value": "todo",
             "mentions": 3,
             "comments": [
                 {
                     "body": "TSLA pulling a NFLX ![img](emote|t5_2th52|4641)",
-                    "score": 7
+                    "score": 8
                 },
                 {
                     "body": "You think large companies will be a little more careful on the type of people they hire after this NFLX circus? \n\nSome people are literal ticking time bombs and legal nightmares. I'd imagine the C suites will be having some secret meetings about hiring practices.",
-                    "score": 5
+                    "score": 6
                 },
                 {
                     "body": "When people talk about value, they don't usually talk future projections. It's overvalued now based on the share price but in 3-5 years, it wouldn't be seen as overvalued. My point of emphasis is to show that you can either sit idle and cry about it being overvalued or watch the stock continue gaining momentum like AMZN/NFLX did.\n\nWho doesn't own TESLA? Average share price is around $120. Made enough to buy all the Tesla models out including the roadster but I'm sitting and adding more. Think you gotta read or interpret more clearly next time.",
-                    "score": 6
+                    "score": 5
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "BABA",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
@@ -1694,11 +1695,11 @@
                     "body": "For people long in AMD, are you as optimistic about AMD today as you were say a year ago? With increased Chinese aggression, AMD's main chip manufacturer might be threatened. BABA is getting into the server and chip design business, so AMD is competing against an even more crowded field. \n\nI'm not an AMD hater I actually own a lot of AMD but I don't know where AMD's price point will be a year from now with such heavy reliance on TSMC.\n\n>Morgan Stanley analyst Joseph Moore\n\nThis guy has the perfect name for this analysis.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "AMC",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
@@ -1709,11 +1710,11 @@
                     "body": "I bought more AMC with my BB profits",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "G",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
@@ -1724,26 +1725,26 @@
                     "body": "Start out investing in the blue bloods. Once you have skin in the game you will start to watch the market more and get a better understanding of what is going on. I\u2019d recommend the F.A.G.M.A.N approach: FB, Amzn, Googl, msft, appl, nvda.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "K",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
                     "body": "\"K thx bye\" ...?",
-                    "score": 24
+                    "score": 25
                 },
                 {
                     "body": "It's overvalued but the name of the game with tech companies is better get in now than later.\n\nLook at how many people stated Netflix and Amazon were overvalued just years ago. No one wants to miss the ride on the way up. You can time it, sure. I think Tesla still has room to fall short-term. But long-term, in 5 years? This stock is going to look super affordable at the price you buy it now.\n\nI've been reading Tesla's 10-K for years now. The numbers and innovations they have planned is on a level that other auto manufacturers are not prepared for.\n\nThink about this fact: GM just publicly came out and stated they wanted to be like TESLA. Imagine a century old company wanting to be like a company that just five years ago, was on the verge of being bankrupt. The past five years for Tesla was literally make-or-break-it and they've made it to a point where EV's are not only sustainable but poised to take advantage of this new green energy movement mass governments have been trying to take charge in. Btw, GM plans to go fully EV by 2035. That means Tesla, at the very least, has many years ahead of them just by the simple fact that GM and other legacy automakers are still trying to figure out how to make EV's profitable without cannibalizing their core business, which atm and for the forseeable future, will be ICE vehicles.\n\nWhether it's overvalued or not, that's a separate discussion. But those who have been doubting TESLA thinking it's just a fad, talking about the regulatory credits and Musk's lunacy are missing out on the fact that Tesla is a legitimate company with some of the best people around the world working on their technology/product(s).",
                     "score": 13
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "PROG",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
@@ -1752,43 +1753,43 @@
                 },
                 {
                     "body": "invest your money in the stock $PROG right now and next month u can invest the double in safe ETF's. this is not financial advice :)",
-                    "score": -3
+                    "score": -2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "FL",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
                     "body": "Yes  i payed 700k and I remodeled now is worth 2M.\n\nActually is on sale because I'm moving from FL to texas",
-                    "score": 48
+                    "score": 46
                 },
                 {
                     "body": ">I'm moving from FL to texas\n\nthe real estate equivalent of a \"lateral move\". \ud83d\ude02",
-                    "score": 23
+                    "score": 22
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "TWO",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
                     "body": "I saw you TSM loss and read that in my Rick Ross voice \"I'm down TWO TWENTY TWO\". At least you have till Jan",
-                    "score": 48
+                    "score": 47
                 },
                 {
                     "body": "\ud83c\udfc6 TWO TIME BACK-TO-BACK BANBETS CHAMPION \ud83c\udfc6\n\n&#x200B;\n\nPlease direct all inquiries for public speaking events to my secretary u/cashflow_",
-                    "score": 12
+                    "score": 11
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "XLNX",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
@@ -1799,26 +1800,26 @@
                     "body": "They're both fighting for what seems to be a *shrinking* x86 market. I don't deny AMD's growth but both INTC and AMD must expand significantly beyond the x86 market if they want to stay relevant. AMD has GPUs already but no FPGAs yet (XLNX acquisition is not complete) while INTC has FPGAs but no GPUs yet (soon-ish).",
                     "score": 4
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "FANG",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
                     "body": "Tesla isn't a FANG stock its TANG stock. Tesla and Not Gonna compete with us stock.",
-                    "score": 57
+                    "score": 55
                 },
                 {
                     "body": "Simple rules of thumb, in my opinion:\n\n1. Learn how to read and understand a balance sheet and income statement. In regards to the balance sheet --- you want to look for cash on hand / short term cash / receivables and on the liability side you want to understand the companies long term debt. In regards to the income statement --- it is important to understand the companies after tax profit. \n2. Buy companies with staying power. The reason FANG gets a lot of attention is that they have a ton of a long term sustainable growth, fantastic balance sheets and tons of income after tax. (Amazon, Google, Facebook, Microsoft, Apple, specifically).\n3. Look at quality, individual, names like mentioned in line item two and also put money into the VOO or SPY (which are ETF's that mirror the S&P 500).\n4. Reinvest dividends. \n\nGood luck investing!!",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "IMO",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
@@ -1829,11 +1830,11 @@
                     "body": "hopefully its true data i just think IMO that etsy would of been a better play",
                     "score": -3
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "ATV",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
@@ -1844,11 +1845,11 @@
                     "body": "Instead of two factories, why not **focus** on what was promised to be delivered? Rather than collecting interest free loans from consumers and **over** **promising** and ~~underdelivering~~\n\n\\- ~~Plaid +~~ **~~2021~~**\n\n\\- Ventilators **2020**\n\n\\- 4680 battery **2020**\n\n\\- 1000 Solar Roofs per week **2019**\n\n\\- Cyber truck **2019**\n\n\\- Roadster **2017**\n\n\\- Semi **2017**\n\n\\- ATV **2017**\n\n\\-  FSD (non-beta) **2015**\n\n\\- Removable battery pack **2013**",
                     "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "SP",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
@@ -1859,86 +1860,86 @@
                     "body": "Asking for investing advice is like walking through a jungle. Everyone has advice on what to do and it\u2019s hard to determine what is valid. Understanding that Price (SP) and Value are two different things and human behavior are the major concepts to educate yourself on in relation to the stock market. Start with the greatest of all time investor Warren Buffet and where he educated himself (Benjamin Graham and Phil Fisher).  Also follow the great disciples of Warren Buffet who have made millions. They will provide the education and basic framework to start investing i.e. (Monish Pahbrai, Li Lu, Guy Spier etc. Good Luck on your journey.",
                     "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "TD",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
                     "body": "Fidelity for best fills, TD for best interface.  \nReally depends what you like, you can still get good fills with TD but it is a bit harder.",
-                    "score": 5
+                    "score": 6
                 },
                 {
                     "body": "Doesn't fidelity require you to have experience to trade options? If so is TD the same way?",
                     "score": 0
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "DIS",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
                     "body": "Unless Elon drops bombs I think I may have vaporized $700 which I am fine with. Next up is DIS",
-                    "score": 12
+                    "score": 13
                 },
                 {
                     "body": "Will DIS ever go green again lol",
-                    "score": 7
+                    "score": 8
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "JP",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
                     "body": "JP when he sees your puts! ![img](emote|t5_2th52|4641)",
-                    "score": 12
+                    "score": 14
                 },
                 {
                     "body": "This same thing is happening right now in North America. Jim Cramer and the cronies at CNBC run a new fluff campaign daily telling investors to buy bank stocks like BofA, JP Morgan and Goldman Sachs. Buy now, they say. Buy now. \n\nThese financial institutions are holding bags of derivative debt worth trillions. They are in imminent danger, and they want you to buy their stock, do it now! We'll remind you again tomorrow.",
                     "score": 5
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "CLF",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
                     "body": "#Ban Bet Lost\n\n/u/christheyankee (0/1) made a bet that CLF would go to 22.0 when it was 21.02 and it did not, so they were banned for a week.",
-                    "score": 14
+                    "score": 13
                 },
                 {
                     "body": "The lack of comments on CLF give me hope for my earnings play. Easy 5 bagger I'd say",
-                    "score": 8
+                    "score": 7
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "SNAP",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
                     "body": "red day tomorrow -> buy SNAP calls at a discount -> SNAP goes up on earnings -> get IV crushed anyways",
-                    "score": 8
+                    "score": 9
                 },
                 {
                     "body": "SNAP earnings tomorrow gonna make FB rocket",
                     "score": 6
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "ON",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
@@ -1947,58 +1948,58 @@
                 },
                 {
                     "body": "GREEN LIGHT. RED LIGHT WITH MY PORTFOLIO ON THIS TESLA EARNINGS",
-                    "score": 7
+                    "score": 6
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "CROX",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
                     "body": "CROX with the classic pre earnings selloff to make room for moon mission tomorrow",
-                    "score": 6
+                    "score": 5
                 },
                 {
                     "body": "CROX is the Rodney Dangerfield of stocks.\n\nNo respect I tells ya.",
                     "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "C",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
                     "body": "You think large companies will be a little more careful on the type of people they hire after this NFLX circus? \n\nSome people are literal ticking time bombs and legal nightmares. I'd imagine the C suites will be having some secret meetings about hiring practices.",
-                    "score": 5
+                    "score": 6
                 },
                 {
                     "body": "Pretty sure you\u2019re the same fellow who professed loudly in the middle of Q3 that Tesla would badly miss production/delivery estimates in Q3. Then, when you were horrendously wrong, you moved the goal posts and claimed that they should have beat by more than they did\u2026 not AT ALL what you said previously. \n\nHow\u2019s clown college going? Did you increase your C- average to a C+ yet? I believe in you.",
                     "score": 3
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "O",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
                     "body": ">But do you have evidence that says it's not true?\n\nThat's not how discussions work. O  \n\n\nOr do you have evidence that I am not a unicorn that is allowed to dictate how internet discussions have to be held? /s",
-                    "score": 36
+                    "score": 39
                 },
                 {
                     "body": "I started at 14 and kicking myself for not starting at W\u0338\u0314\u0346\u0315\u0350\u033e\u0303\u030b\u030c\u0345\u0318\u0322\u0345\u033c\u033cI\u0336\u0310\u035d\u0314\u033d\u0311\u034b\u0348\u0353\u0354\u0317\u0317T\u0334\u0314\u0341\u0341\u0314\u0306\u0311\u033a\u031f\u033a\u0347\u0319\u032f\u0323\u0339\u0326H\u0338\u033e\u034a\u0303\u030c\u0343\u030a\u0305\u0342\u0341\u0301\u0360\u0305\u0340\u030c\u030d\u0354\u0330\u0345\u0355\u0328\u035a\u0329\u0329\u0353\u032c\u0339\u0333\u035cI\u0336\u033d\u0351\u0304\u0346\u0352\u0309\u0343\u0312\u0310\u0305\u0358\u0360\u032d\u0359\u033c\u033c\u0327\u0332\u032b\u035a\u032aN\u0338\u033f\u031b\u030b\u0315\u033d\u0321\u0348\u0318\u033b\u031c\u031e\u0331\u0328\u032e\u0359\u0321\u032d\u0332\u0328 \u0334\u034b\u030a\u0347\u0356\u0348\u0333\u031d\u0321\u0320\u032e\u0325\u0356\u0356\u0317\u0347\u0330T\u0334\u0340\u030f\u034c\u0314\u0314\u0341\u030d\u0300\u0346\u0304\u0308\u035b\u0313\u0322\u035a\u0330\u0318\u0323\u0321\u031f\u0328\u0353\u031f\u032e\u0355\u0325\u034eH\u0335\u033e\u033a\u0331\u032a\u0319\u032c\u032eE\u0338\u0357\u030a\u0344\u030a\u0314\u0351\u031b\u0346\u030c\u035d\u0313\u0327\u033c\u0333\u032a\u0347\u032b\u035c\u035c\u0327\u0353\u0339\u034e\u0320\u031d\u0329 \u0335\u0315\u0313\u030d\u0350\u0344\u035d\u0311\u0301\u031e\u0317\u032b\u0325\u035c\u0329\u0328\u0323\u0356\u0345\u0316\u032aW\u0335\u0342\u0360\u0309\u033f\u033e\u035b\u0351\u0309\u030d\u0303\u0309\u0339O\u0335\u0352\u0346\u0342\u0308\u031b\u034c\u034c\u032c\u033c\u0355\u035c\u0332\u0321\u032c\u0347M\u0336\u0306\u0351\u0312\u030a\u031a\u030e\u0306\u035a\u035a\u0348\u0324\u033bB\u0335\u0312\u0301\u0302\u030f\u034b\u0342\u0303\u0352\u0301\u0303\u0351\u0324\u0331\u0354\u031c\u032a\u0339\u034d\u0330\u034d\u0330\u032d\u0331\u0356\u0354\u0328",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "ONE",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
@@ -2009,922 +2010,921 @@
                     "body": "Investment in stocks is risky. It really depends how much risk you're willing to take. Yes, people have been making good money.  It was hard to lose any money over the past few years. But this run cannot continue forever and many are predicting a crash soon (to be fair they have been predicting a crash since 2016 or so). So you should ask yourself \"if I invest now, can I stomach the risk that this investment will be a (near total) loss in a few years time?\". If so: go for it. If you think the stock market is a 'surefire win-machine': stay away. (Because: while people will surely tell you about their gains NO ONE will tell you about their losses...so your perception based on what people tell you WILL be skewed)\n\nThat said: if anyone tells you they know which stocks are 'best to buy' (objectively) they are lying. People have their own theories. The more long-term you are thinking the better. Short term (i.e the two years horizon you are mentioning) is gambling.\n\nMy theory would be: For the long term look at how the world is changing (e.g. climate change, population growth, societal changes) and which industries will benefit - and then invest in these. Look to companies that have real values (no \"pure software\" companies) and which are not in unstable regions (i.e. I stay away from china stocks)...but that's just my theory. Roll your own.",
                     "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "CFO",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
                     "body": "Seriously, is there even a remote chance BOA CFO and CEO are forging financial statements after Sarbanes\u2013Oxley? Then throw Dodd-Frank's foot up their balance sheets ass and there is a 0% chance there are \"hidden bonds\" BOA is exposed to. \n\nAnd now I want to know who we is? Like, does OP have a mouse in his pocket?",
-                    "score": 6
+                    "score": 7
                 },
                 {
                     "body": ">Seriously, is there even a remote chance BOA CFO and CEO are forging financial statements after Sarbanes\u2013Oxley? Then throw Dodd-Frank's foot up their balance sheets ass and there is a 0% chance there are \"hidden bonds\" BOA is exposed to.\n\nDon't worry about all that diligence telling you this is dumb af claim to make.... you just got to belieeeeeve",
-                    "score": 9
+                    "score": 10
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "MRO",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
                     "body": "I taught myself. Its not hard. My favorite broker is Fidelity, they do a great job. They are also great rewatching how the whole thing works on their platform. I never invest anymore than I can afford to lose. I buy low (when a stock is down ticking) and I sell high. I used to trade stocks. Now I am an investor. So I buy in, add on down ticks, have an exit strategy. I love three cheap stocks now. You might wanna add them to a watchlist. And make a watchlist of  industry and companies you relate to and love. I own three cheap stocks right now. Two are oil stocks because we\u2019re in a pandemic and oil stocks tanked and are now climbing back. I like Marathon Oil (MRO), it\u2019s about $16.00 a share. I also like (REI) Ring  Energy. It\u2019s only $4.00 a share. I\u2019m also interested in AI and robotics. At just 3 CENTS a share, I bought a huge amount of AITX Artificial  Intelligence Technology Solutions this morning while it was down.  AITX is a penny stock sold on the OTC and risky. I recall reading \u201cinvesting for Idiots\u201d many moons ago. Good luck on this journey!",
-                    "score": 4
+                    "score": 3
                 },
                 {
                     "body": "my advice: Don\u2019t buy into oil, especially MRO it\u2019s at ATH right now.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "MA",
+            "actual_stock_value": "todo",
             "mentions": 2,
             "comments": [
                 {
                     "body": "You forgot MA too.",
-                    "score": 5
+                    "score": 7
                 },
                 {
                     "body": "Right, there are just too many lol. I only included the ones I have opinions on. Would love to hear what you think will happen with MA",
                     "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "FOR",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "BOY DO I HAVE ADVICE FOR Y\u2019ALL THEN. \n\nBuy ramen packet. \nBuy an onion. \nBuy some butter. \nBuy some cheese. \n\nCaramelize onion in pot with small amount of butter and ramen seasoning packet. \n\nAdd noodles plus water to cook the noodles. \n\nTransfer to oven safe eating bowl. \n\nAdd cheese on top of that ish. \n\nBroil the cheese in the oven for like 2 minutes or whatever, make sure that shit\u2019s GOLDEN. \n\nPull it out. Eat. \n\nBelly profits for cheap. \n\nThank me later ya degenerates.",
-                    "score": 5
+                    "score": 6
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "ID",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "I started a new business using fake ID\u2019s to take Covid vaccine shots for people who don\u2019t want the shot but still want their cop job. I make them meet me at Olive Garden and pay me in breadsticks. This way I can also check in on my wife\u2019s boyfriend. He likes to hang out there at the bar and pick up on hostesses. I stared to feel good bout myself when he saw me as a customer, maybe even his equal but he caught me stashing breadsticks in my cargo short pockets.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "JOBS",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "SELL HAND JOBS?!?!?!? You mean I could have been making money this whole time???",
-                    "score": 6
+                    "score": 4
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "OKE",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "$OKE. Thank me later.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "NOK",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "With that money you can buy: $NOK (2 stocks)  continue the list",
-                    "score": 14
+                    "score": 15
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "BAC",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "\ud83c\udf08\ud83d\udc3b\nBAC puts will eventually print\nRight? Right?",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "TTCF",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Invest in TTCF! Nov 10 earnings!",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "R",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Made 500k on boeing,  tesla, and other stock. One year ago\n\nThen yolo in semiconductor in February and bunch of other shit call.\n\nR. I.P\n\nMc Donald's I'm coming",
-                    "score": 1595
+                    "score": 1597
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "MCD",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "MCD is too conservative.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "BEAT",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Yes!! Exactly my thoughts and tsm produce this next year and 2023 snapdragon chipset to all the smartphone.\nTHEY BEAT EARNING EVERY SINGLE QUARTER!\n\nIS MY FAULT.\n\nTHEY ARE TAIWANESE AND PEOPLE DO NOT BUY CHINA STOCK",
-                    "score": 47
+                    "score": 46
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "ARE",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Yes!! Exactly my thoughts and tsm produce this next year and 2023 snapdragon chipset to all the smartphone.\nTHEY BEAT EARNING EVERY SINGLE QUARTER!\n\nIS MY FAULT.\n\nTHEY ARE TAIWANESE AND PEOPLE DO NOT BUY CHINA STOCK",
-                    "score": 47
+                    "score": 46
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "PDT",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Good post. I was at 30k, had losses and got down to $25,100. Panic set in because I didn't want to be below PDT. I sized small for a couple weeks to make it to $26,300. No more chasing, no more over trading, always going cut losses quick or take profit. I know it's WSB and I never want it to change, but I can't afford these YOLO plays. Fuck.",
                     "score": 6
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "MU",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "I got burned by MU but nowhere near this amount",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "DTE",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Dont you dare close that out. \n\nDidn't you see that one guy who was redeemed massively on his 3 month option 1 DTE?\n\nAt least you have 3 months.",
-                    "score": 104
+                    "score": 101
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "ABT",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "I had some ABT calls for a couple weeks. Took a crap every day for weeks. \n\nWent from -80% to +100% in 2 days. I sold yesterday with 3+ weeks to go. Good luck for the next retard that bought them. \n\nSo there's always a chance.",
                     "score": 3
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "OCGN",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "I sold, 10k OCGN at 3$ on the way to the liquor store, when I got home it was $16. I went back to the liquor store bought more booze and shares at 13$. Next morning woke up with a hangover my shares worth 30% less and a $1500 credit card charge to a online casino (the ones were the dealers are in Eastern Europe instead of nyc)",
-                    "score": 7
+                    "score": 8
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "PH",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Yea, if he teaches English to Dillon Harper on PH",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "PTON",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Me this morning with PTON and then it tanked \ud83d\ude43",
                     "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "HA",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Ha HA! ....   What did you learn?",
                     "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "EOD",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Should end up green EOD.",
                     "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "AM",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "The volume momentum never holds. Lots of sell off this AM. Continued disappointment",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "UHAL",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "First time I've seen this made into a meme. Thanks for reminding me that I haven't watched T2 in almost a decade. Putting it on tonight, great movie.\n\nSince last year, you would have a 25%+ return on a VNQ investment, I'm not killing myself over putting money into it. I probably should have just put money into UHAL, PSA and URI in holdings and calls instead. That would have been the smarter and obvious play.\n\nnon, je ne regrette rien",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "PSA",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "First time I've seen this made into a meme. Thanks for reminding me that I haven't watched T2 in almost a decade. Putting it on tonight, great movie.\n\nSince last year, you would have a 25%+ return on a VNQ investment, I'm not killing myself over putting money into it. I probably should have just put money into UHAL, PSA and URI in holdings and calls instead. That would have been the smarter and obvious play.\n\nnon, je ne regrette rien",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "URI",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "First time I've seen this made into a meme. Thanks for reminding me that I haven't watched T2 in almost a decade. Putting it on tonight, great movie.\n\nSince last year, you would have a 25%+ return on a VNQ investment, I'm not killing myself over putting money into it. I probably should have just put money into UHAL, PSA and URI in holdings and calls instead. That would have been the smarter and obvious play.\n\nnon, je ne regrette rien",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "ITT",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "ITT- no fucking clue. Is this good or bad?",
                     "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "BIT",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "They still holding bit$coin ? Seems like every time they have earnings BIT$COIN hits ATH\u2019s",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "NOW",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "TSLA runs over 2000% over the past 24 months and my guy buys in NOW.  \n  \nIt is entirely possible this continues squeezing and gets back to nearly 3K again like it did last year though so it's not like you buying **WISH** on every hype or something like that.",
-                    "score": 11
+                    "score": 12
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "ROIC",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Tesla is approaching Apple in terms of ROIC. If you look in the rear-view mirror it doesn't look particularly interesting no, if you look a few years out it's still awfully cheap. If the current trends of growing revenue and margins continue, Tesla will be at Apple's forward PE within 2-3 years. That's not realistic for a company that's growing more than twice as fast while increasing margins. Imagine what happens when they start earnings SAAS revenues with FSD or Autobidder?",
-                    "score": 3
+                    "score": 4
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "SEE",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "_LET ME SEE HIS EYES_",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "CARS",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "S3XY CARS  \n\n\nModel S\n\nModel 3\n\nModel X\n\nModel Y\n\nCybertruck\n\nATV (kind of a joke)\n\nRoadster 2.0\n\nSemi\n\n&#x200B;\n\nTo be added: '25k car' and some kind of 'people mover' like a van.\n\nSo excluding semi and ATV, that's a compact, midsize, and full size sedan. A CSUV and a midsize SUV. A pickup, sports car, and large people mover. It's not the giant selection of near-redundant models you'll find at some places but it's enough.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "CTO",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Future VW CTO right here",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "IBKR",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Is this IBKR?",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "GL",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "GL! Also why $AMZN ?",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "POST",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "ALWAYS BUY THE POST TSLA ER DIP.   FREE ASS MONEY HOOKERS",
-                    "score": 19
+                    "score": 20
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "FREE",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "ALWAYS BUY THE POST TSLA ER DIP.   FREE ASS MONEY HOOKERS",
-                    "score": 19
+                    "score": 20
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "RIOT",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Damn RIP Joe Rogan. I\u2019ll buy more RIOT calls tomorrow in your honor",
-                    "score": 18
+                    "score": 15
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "CRTX",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Thought long and hard and decided to drive and pick up my doordash order to save $3.15 + get 78 cents in doordash credit but I had no problem throwing $10k on CRTX for a gamble on an Alzheimer\u2019s drug of which I\u2019ve done 0 DD for",
-                    "score": 13
+                    "score": 14
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "AA",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Are the batteries in a Tesla AA or AAA Energizer?",
-                    "score": 11
+                    "score": 12
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "SDC",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "SDC gang getting root canaled",
                     "score": 8
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "LAND",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": ">CHINESE DEVELOPER MODERN LAND CANCELS $250M BOND REPAYMENT PLAN ON LIQUIDITY ISSUES -SCMP\n\n^FXHedge ^[@Fxhedgers](http://twitter.com/Fxhedgers) ^at ^2021-10-21 ^00:53:37 ^EDT-0400",
                     "score": 8
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "PLAN",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": ">CHINESE DEVELOPER MODERN LAND CANCELS $250M BOND REPAYMENT PLAN ON LIQUIDITY ISSUES -SCMP\n\n^FXHedge ^[@Fxhedgers](http://twitter.com/Fxhedgers) ^at ^2021-10-21 ^00:53:37 ^EDT-0400",
                     "score": 8
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "FCEL",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "I got greedy with FCEL gotta be honest",
-                    "score": 7
+                    "score": 6
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "IT",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Ah yes, now as a federal IT contractor they are requiring vaccinations in the company . People are going to quit",
-                    "score": 6
+                    "score": 8
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "PT",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "COIN 400 PT callssssss",
                     "score": 8
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "MARA",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "I did all the wrong things today.  Sold calls and bought back in higher, overtraded, bought MARA calls, shitted my pants...",
-                    "score": 6
+                    "score": 7
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "CB",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Poisoned corporate bond contagion is likely. Who wants to hold CB's if it's possible they're wrecked? For the moment, no one wants to trigger the domino run because it would ruin them all so they're waiting for some signs first.",
                     "score": 17
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "WF",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": ">We were using an research firm based out of San Francisco.\n\nYou're a strange one. Constantly talking about where things are based (first \"west coast banks\", then WF, now this) as if that's somehow applicable here? Also using a research firm for what? OP was talking about BAML's eq research analyst giving x%, you chimed in with \"evergrande had 45%\". The context of this whole chain was BAML's equity research comment.\n\n>If you are truly a scholar the posting in here in Reddit. Look it up.\n\n? What are you even talking about.\n\n>That is before you start questioning your own research.\n\nThese are deflections of someone who posts without substance. Redirect the conversation and gaslight.\n\nHaving been in banking and had to deal with the quarterly reporting of a loan book (we had structured trades that had to be lumped in with LevFin's portfolio) as well as annual efforts for ccar, the transparency you get out of banks these days would absolutely highlight and flag exposures big enough to \"not be able to be covered by tax payers\" lmao.\n\nKeep believing instead of conducting diligence. That's a very interesting way to make your way through life, both professionally and personally..",
-                    "score": 40
+                    "score": 36
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "FORD",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "I am new to the game and will try to give you my point of view. I've started with way less and was lucky enough to get on some stocks early. Yes, they are some of the so called meme stocks, but in the time I've been holding them, I've learned a lot about the market.\n\n1. I wouldn't go near the meme stocks right now. I believe they have potential, but I am biased and also nobody knows when and how you'll see returns at that price.\n2. I wouldn't listen and trust blindly to anyone who says this stock will blow up. I could get suggestions and do a DD by myself and then I will make an informed decision.\n3. I personally find ETFs boring, but they are good source of income. Steady income over the years. I have the same sentiment about so called boomer stocks like Apple, Google and so on. They are good investment, but I don't like them.\n4. Always do your DDs. I've always liked ford cars and am nostalgic to NOKIA. They are quite cheap at the moment, so I looked in their business. I saw that FORD will put out electric vehicle (before the new F150 came out) and also they could move in EV direction. NOKIA doesn't only make phones, but they have so many technologies and I think they have potential. Also, Toyota they want to go into Electric car batteries. These three examples are not financial advice, but I want to illustrate that if you like a company, you should look into it. You can check if someone has written a DD on it and check their information, this could save you some time.\n5. Don't be sentimental and as someone said in the comments, take a gain, instead of waiting for a bigger one. When you feel comfortable, cash out and go on the next one",
                     "score": 12
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "EDIT",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "People will tell you not to listen to YouTube but while almost all \"Buy this stock next!\" videos suck, there are a few people out there who are great at explaining the fundamentals of (long term) investing as opposed to trading (or in other words: gambling). [This guy in particular](https://www.youtube.com/channel/UCnMn36GT_H0X-w5_ckLtlgQ) helped me out a lot, although I must say most of his stock pick videos are 95% clickbait or irrelevant. His whiteboard tutorial videos are amazing to learn to understand the right mindset though. Two examples: [One](https://www.youtube.com/watch?v=8jiv7OLAh-I) & [Two](https://www.youtube.com/watch?v=e0DWyVc6h1k)\n\nAlso, most people will tell you to stick with ETFs, but it depends entirely on what your goal is. If you want to achieve safe and steady growth with minimal effort, ETFs are great. But if you want to learn how to become an actual investor (as opposed to someone who invests) you need to learn how to value and pick individual companies, and your potential gains (and losses) will also be much higher. For example, I've made roughly 154% return on my investments since starting in January 2020 compared to the S&P500's 39%. That would never have been possible had I chosen to just put money in ETFs. That said, I've also underperformed the marked in the last 6 months and it cost me a lot of time to learn the right long term mindset of not worrying about that and research which companies to invest in.\n\nOne last piece of advise is that - especially when you're starting out - it's fine to rely on someone else's research, AS LONG as you truly understand their thesis. Someone can be the best investor in the world, but if you're buying a company just going off their word you're gonna start to doubt if the stock goes down and you'll either sell out when it was a great moment to buy, or you won't recognize when the thesis is not working out and buy while this guy decided to exit the position. Always make sure you truly understand why you're buying into a company, so you can keep track of whether they're executing as the thesis expected.\n\nEDIT: I've also seen some people telling you to focus on macroeconomics (what certain sectors in the market are doing). That's terrible advise. It's extremely difficult to predict what will happen here, not even professional investors get it right 80% of the time. It's all noise for a long term investor. As long as you know how to value a company and project what they will do in the future, anything that has to do with short term price changes (up to 12 months) is irrelevant.\n\nEDIT EDIT: Also, don't touch options until you've been investing for at least two years (or perhaps ever).",
-                    "score": 24
+                    "score": 23
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "VXUS",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "I would also recommend a good portion of ETF's (VTI, VXUS, mby QQQ, etc...). \n\nHowever: 2 years is NOT a long investment horizon. Market might crash and you would just lose money. If you aim for like 10+ years, the market will almost certainly recover from any crash and be up higher than now. (*This is not financial advice.*)\n\nThat said, if you want to invest in stocks, you can have a look at what the 'superinvestors' are doing: [https://www.dataroma.com/m/managers.php](https://www.dataroma.com/m/managers.php)  I'd still recommend you only buy stocks where you understand the company and did your own research, but looking at what the most successful investors are doing can be a good starting point for further investigation.",
                     "score": 3
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "AEHR",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Right now my best stocks are AEHR + IONQ + FUBO + SLQT + SOFI + HUT + FUBO .  PUBM + TGLS looking good .\n\nAll these stocks I found thx to Reddit . Don't watch any videos . Don't play options cuz too risky \n\nTake a look at FINVIZ.COM . You can see on their homepage all kinds of info.  On their screener I use mostly current ratio over 1.5 + quick ratio over 1.2 + low float under 100M for small caps and high M low B for larger. P/FCF gives you an idea how expensive the company is relative to others . I prefer insider ownership over 10%. Volume over 300-400K.\nI look for mostly small or mid-cap.\n\nHealthcare stocks are extremely volatile and unpredictable.  They fly up but then often crash .\nChina stocks are also very attractive cuz of price growth but considered risky for several reasons . \n\nhttps://www.marketbeat.com/stocks/NYSE/FUBO/\n\nHere if you scroll down there is a blueish menu. like to look at Analyst Ratings + institutional ownership.  \n\nMuch more to explore on both of these sites.\n\nI also check comments on Yahoo Finance and Stocktwits",
                     "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "FUBO",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Right now my best stocks are AEHR + IONQ + FUBO + SLQT + SOFI + HUT + FUBO .  PUBM + TGLS looking good .\n\nAll these stocks I found thx to Reddit . Don't watch any videos . Don't play options cuz too risky \n\nTake a look at FINVIZ.COM . You can see on their homepage all kinds of info.  On their screener I use mostly current ratio over 1.5 + quick ratio over 1.2 + low float under 100M for small caps and high M low B for larger. P/FCF gives you an idea how expensive the company is relative to others . I prefer insider ownership over 10%. Volume over 300-400K.\nI look for mostly small or mid-cap.\n\nHealthcare stocks are extremely volatile and unpredictable.  They fly up but then often crash .\nChina stocks are also very attractive cuz of price growth but considered risky for several reasons . \n\nhttps://www.marketbeat.com/stocks/NYSE/FUBO/\n\nHere if you scroll down there is a blueish menu. like to look at Analyst Ratings + institutional ownership.  \n\nMuch more to explore on both of these sites.\n\nI also check comments on Yahoo Finance and Stocktwits",
                     "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "SLQT",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Right now my best stocks are AEHR + IONQ + FUBO + SLQT + SOFI + HUT + FUBO .  PUBM + TGLS looking good .\n\nAll these stocks I found thx to Reddit . Don't watch any videos . Don't play options cuz too risky \n\nTake a look at FINVIZ.COM . You can see on their homepage all kinds of info.  On their screener I use mostly current ratio over 1.5 + quick ratio over 1.2 + low float under 100M for small caps and high M low B for larger. P/FCF gives you an idea how expensive the company is relative to others . I prefer insider ownership over 10%. Volume over 300-400K.\nI look for mostly small or mid-cap.\n\nHealthcare stocks are extremely volatile and unpredictable.  They fly up but then often crash .\nChina stocks are also very attractive cuz of price growth but considered risky for several reasons . \n\nhttps://www.marketbeat.com/stocks/NYSE/FUBO/\n\nHere if you scroll down there is a blueish menu. like to look at Analyst Ratings + institutional ownership.  \n\nMuch more to explore on both of these sites.\n\nI also check comments on Yahoo Finance and Stocktwits",
                     "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "PUBM",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Right now my best stocks are AEHR + IONQ + FUBO + SLQT + SOFI + HUT + FUBO .  PUBM + TGLS looking good .\n\nAll these stocks I found thx to Reddit . Don't watch any videos . Don't play options cuz too risky \n\nTake a look at FINVIZ.COM . You can see on their homepage all kinds of info.  On their screener I use mostly current ratio over 1.5 + quick ratio over 1.2 + low float under 100M for small caps and high M low B for larger. P/FCF gives you an idea how expensive the company is relative to others . I prefer insider ownership over 10%. Volume over 300-400K.\nI look for mostly small or mid-cap.\n\nHealthcare stocks are extremely volatile and unpredictable.  They fly up but then often crash .\nChina stocks are also very attractive cuz of price growth but considered risky for several reasons . \n\nhttps://www.marketbeat.com/stocks/NYSE/FUBO/\n\nHere if you scroll down there is a blueish menu. like to look at Analyst Ratings + institutional ownership.  \n\nMuch more to explore on both of these sites.\n\nI also check comments on Yahoo Finance and Stocktwits",
                     "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "TGLS",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Right now my best stocks are AEHR + IONQ + FUBO + SLQT + SOFI + HUT + FUBO .  PUBM + TGLS looking good .\n\nAll these stocks I found thx to Reddit . Don't watch any videos . Don't play options cuz too risky \n\nTake a look at FINVIZ.COM . You can see on their homepage all kinds of info.  On their screener I use mostly current ratio over 1.5 + quick ratio over 1.2 + low float under 100M for small caps and high M low B for larger. P/FCF gives you an idea how expensive the company is relative to others . I prefer insider ownership over 10%. Volume over 300-400K.\nI look for mostly small or mid-cap.\n\nHealthcare stocks are extremely volatile and unpredictable.  They fly up but then often crash .\nChina stocks are also very attractive cuz of price growth but considered risky for several reasons . \n\nhttps://www.marketbeat.com/stocks/NYSE/FUBO/\n\nHere if you scroll down there is a blueish menu. like to look at Analyst Ratings + institutional ownership.  \n\nMuch more to explore on both of these sites.\n\nI also check comments on Yahoo Finance and Stocktwits",
                     "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "REI",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "I taught myself. Its not hard. My favorite broker is Fidelity, they do a great job. They are also great rewatching how the whole thing works on their platform. I never invest anymore than I can afford to lose. I buy low (when a stock is down ticking) and I sell high. I used to trade stocks. Now I am an investor. So I buy in, add on down ticks, have an exit strategy. I love three cheap stocks now. You might wanna add them to a watchlist. And make a watchlist of  industry and companies you relate to and love. I own three cheap stocks right now. Two are oil stocks because we\u2019re in a pandemic and oil stocks tanked and are now climbing back. I like Marathon Oil (MRO), it\u2019s about $16.00 a share. I also like (REI) Ring  Energy. It\u2019s only $4.00 a share. I\u2019m also interested in AI and robotics. At just 3 CENTS a share, I bought a huge amount of AITX Artificial  Intelligence Technology Solutions this morning while it was down.  AITX is a penny stock sold on the OTC and risky. I recall reading \u201cinvesting for Idiots\u201d many moons ago. Good luck on this journey!",
-                    "score": 4
+                    "score": 3
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "JPM",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "I just started 2 years ago and personally like going for not sexy blue chip stocks for the bulk of my investments. \n\nI can tolerate a little more risk then what an ETF can offer but I'm not ballsy enough to YOLO and babysit my money in a company I am not as familiar with. \n\nMy best investments have been \n\nMSFT\n\nJPM\n\nNVDA\n\nWM\n\nMy advice would be find larger stable companies you like, use or see used a lot that you are comfortable putting a bulk of your investment in. It won't pop often, but over time it will grow without as much stress.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "NVDA",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "I just started 2 years ago and personally like going for not sexy blue chip stocks for the bulk of my investments. \n\nI can tolerate a little more risk then what an ETF can offer but I'm not ballsy enough to YOLO and babysit my money in a company I am not as familiar with. \n\nMy best investments have been \n\nMSFT\n\nJPM\n\nNVDA\n\nWM\n\nMy advice would be find larger stable companies you like, use or see used a lot that you are comfortable putting a bulk of your investment in. It won't pop often, but over time it will grow without as much stress.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "WM",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "I just started 2 years ago and personally like going for not sexy blue chip stocks for the bulk of my investments. \n\nI can tolerate a little more risk then what an ETF can offer but I'm not ballsy enough to YOLO and babysit my money in a company I am not as familiar with. \n\nMy best investments have been \n\nMSFT\n\nJPM\n\nNVDA\n\nWM\n\nMy advice would be find larger stable companies you like, use or see used a lot that you are comfortable putting a bulk of your investment in. It won't pop often, but over time it will grow without as much stress.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "TA",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "I'm young to mid 30s too but several years ahead of you in market knowledge. Short version: Stay away from individual stocks for at least the first 2-3 years. Develop a base with index funds. Stay away from options for at least 5 years (if ever). Even after introducing individual stocks they should be at most 5-10% of your entire portfolio. Options should be 5% or less. It's tempting when you see people make 100-300% returns in a year (hit it big with one individual stock) or 100-1000% returns in a day (hit it big with an options play), but for every one person that does that there are literally thousands that broke even or lost money. Unless you think a brand new investor is going to outsmart the entire financial system then stay away from the temptation. Fidelity SP500 index, NASDAQ Comp index, total stock market index, etc are your go to indexes until you understand the market better. For example, ever wonder why one month MSFT trades at 260 but the next it's 300 but then the next month it's 285 only to be 305 three weeks later? It doesn't always just correlate with the overall market. What if you bought at the top? These nuances won't matter over longer periods of time but over 1 month to 1 year they could depending on your goals. Stick with an index for now. Lump sum early on then DCA over time - every pay check, once a month, you choose. Same paycheck date, same day of the month, choose one but don't time the market. It won't matter in 2040 if you invested on Monday or next Friday.\n\nAs you learn about your index funds and watch your portfolio hopefully grow over the first couple years it'll buy you time to learn more about individual stocks and TA and other tips or tricks. The same \"opportunities\" in the market right now will still be there in 3-10 years, the opportunities will just be on different tickers. Dumping in a ton of money before you understand what you're doing can result in huge losses and there's definitely no guarantee that the stock will ever recover so you can permanently lose your money in the course of 10 minutes or 10 days.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "CEI",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Start with CEI, energy sector",
                     "score": 0
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "EVER",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Due diligence, I recommend downloading thinkorswim app. It's free and they let you \"paper trade\"  just like you're using real money. Basically simulating using the stock market, everything is legit except the fact you're using fake money. That is the best way to get experience if you're a newbie. It for years. Nobody can \"teach\" you how to be successful because nobody \"knows\" what's going to happen. \n\nAs far as books, pick which approach you want to take to stocks..day trade(don't recommend until you have experience) shirt, medium, long term investing, or chart analysis..then read a few books on that topic. But don't EVER take someone else's advice on YouTube. Don't even take advice from walstreet bets or anything like that because it's mostly sarcasm and \"pump and dump\" scams.\n\nI can't provide links because I don't trust people with MY money, and I don't take advice because it's usually false advice.",
-                    "score": 5
+                    "score": 4
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "W",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "I started at 14 and kicking myself for not starting at W\u0338\u0314\u0346\u0315\u0350\u033e\u0303\u030b\u030c\u0345\u0318\u0322\u0345\u033c\u033cI\u0336\u0310\u035d\u0314\u033d\u0311\u034b\u0348\u0353\u0354\u0317\u0317T\u0334\u0314\u0341\u0341\u0314\u0306\u0311\u033a\u031f\u033a\u0347\u0319\u032f\u0323\u0339\u0326H\u0338\u033e\u034a\u0303\u030c\u0343\u030a\u0305\u0342\u0341\u0301\u0360\u0305\u0340\u030c\u030d\u0354\u0330\u0345\u0355\u0328\u035a\u0329\u0329\u0353\u032c\u0339\u0333\u035cI\u0336\u033d\u0351\u0304\u0346\u0352\u0309\u0343\u0312\u0310\u0305\u0358\u0360\u032d\u0359\u033c\u033c\u0327\u0332\u032b\u035a\u032aN\u0338\u033f\u031b\u030b\u0315\u033d\u0321\u0348\u0318\u033b\u031c\u031e\u0331\u0328\u032e\u0359\u0321\u032d\u0332\u0328 \u0334\u034b\u030a\u0347\u0356\u0348\u0333\u031d\u0321\u0320\u032e\u0325\u0356\u0356\u0317\u0347\u0330T\u0334\u0340\u030f\u034c\u0314\u0314\u0341\u030d\u0300\u0346\u0304\u0308\u035b\u0313\u0322\u035a\u0330\u0318\u0323\u0321\u031f\u0328\u0353\u031f\u032e\u0355\u0325\u034eH\u0335\u033e\u033a\u0331\u032a\u0319\u032c\u032eE\u0338\u0357\u030a\u0344\u030a\u0314\u0351\u031b\u0346\u030c\u035d\u0313\u0327\u033c\u0333\u032a\u0347\u032b\u035c\u035c\u0327\u0353\u0339\u034e\u0320\u031d\u0329 \u0335\u0315\u0313\u030d\u0350\u0344\u035d\u0311\u0301\u031e\u0317\u032b\u0325\u035c\u0329\u0328\u0323\u0356\u0345\u0316\u032aW\u0335\u0342\u0360\u0309\u033f\u033e\u035b\u0351\u0309\u030d\u0303\u0309\u0339O\u0335\u0352\u0346\u0342\u0308\u031b\u034c\u034c\u032c\u033c\u0355\u035c\u0332\u0321\u032c\u0347M\u0336\u0306\u0351\u0312\u030a\u031a\u030e\u0306\u035a\u035a\u0348\u0324\u033bB\u0335\u0312\u0301\u0302\u030f\u034b\u0342\u0303\u0352\u0301\u0303\u0351\u0324\u0331\u0354\u031c\u032a\u0339\u034d\u0330\u034d\u0330\u032d\u0331\u0356\u0354\u0328",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "H",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "I started at 14 and kicking myself for not starting at W\u0338\u0314\u0346\u0315\u0350\u033e\u0303\u030b\u030c\u0345\u0318\u0322\u0345\u033c\u033cI\u0336\u0310\u035d\u0314\u033d\u0311\u034b\u0348\u0353\u0354\u0317\u0317T\u0334\u0314\u0341\u0341\u0314\u0306\u0311\u033a\u031f\u033a\u0347\u0319\u032f\u0323\u0339\u0326H\u0338\u033e\u034a\u0303\u030c\u0343\u030a\u0305\u0342\u0341\u0301\u0360\u0305\u0340\u030c\u030d\u0354\u0330\u0345\u0355\u0328\u035a\u0329\u0329\u0353\u032c\u0339\u0333\u035cI\u0336\u033d\u0351\u0304\u0346\u0352\u0309\u0343\u0312\u0310\u0305\u0358\u0360\u032d\u0359\u033c\u033c\u0327\u0332\u032b\u035a\u032aN\u0338\u033f\u031b\u030b\u0315\u033d\u0321\u0348\u0318\u033b\u031c\u031e\u0331\u0328\u032e\u0359\u0321\u032d\u0332\u0328 \u0334\u034b\u030a\u0347\u0356\u0348\u0333\u031d\u0321\u0320\u032e\u0325\u0356\u0356\u0317\u0347\u0330T\u0334\u0340\u030f\u034c\u0314\u0314\u0341\u030d\u0300\u0346\u0304\u0308\u035b\u0313\u0322\u035a\u0330\u0318\u0323\u0321\u031f\u0328\u0353\u031f\u032e\u0355\u0325\u034eH\u0335\u033e\u033a\u0331\u032a\u0319\u032c\u032eE\u0338\u0357\u030a\u0344\u030a\u0314\u0351\u031b\u0346\u030c\u035d\u0313\u0327\u033c\u0333\u032a\u0347\u032b\u035c\u035c\u0327\u0353\u0339\u034e\u0320\u031d\u0329 \u0335\u0315\u0313\u030d\u0350\u0344\u035d\u0311\u0301\u031e\u0317\u032b\u0325\u035c\u0329\u0328\u0323\u0356\u0345\u0316\u032aW\u0335\u0342\u0360\u0309\u033f\u033e\u035b\u0351\u0309\u030d\u0303\u0309\u0339O\u0335\u0352\u0346\u0342\u0308\u031b\u034c\u034c\u032c\u033c\u0355\u035c\u0332\u0321\u032c\u0347M\u0336\u0306\u0351\u0312\u030a\u031a\u030e\u0306\u035a\u035a\u0348\u0324\u033bB\u0335\u0312\u0301\u0302\u030f\u034b\u0342\u0303\u0352\u0301\u0303\u0351\u0324\u0331\u0354\u031c\u032a\u0339\u034d\u0330\u034d\u0330\u032d\u0331\u0356\u0354\u0328",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "AT",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Pretty sure you\u2019re the same fellow who professed loudly in the middle of Q3 that Tesla would badly miss production/delivery estimates in Q3. Then, when you were horrendously wrong, you moved the goal posts and claimed that they should have beat by more than they did\u2026 not AT ALL what you said previously. \n\nHow\u2019s clown college going? Did you increase your C- average to a C+ yet? I believe in you.",
                     "score": 3
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "CPA",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "As appropriate given there are no formal accounting standards for crypto so auditors must insist on conservative presentation.\n\nSource: am CPA and auditor, also teach crypto treatment.",
-                    "score": 19
+                    "score": 17
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "ANY",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Are you sure?\n\nI'm pretty sure changes in GAAP account rules in the last few years require that businesses report paper gains or losses on ANY investments as part of their earnings, including crypto. Warren Buffett heavily criticized the change at the time.",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "PS",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "You don\u2019t understand how earning work huh? I\u2019d expect nothing less from a retail trader.\n\nPS I\u2019m not short Tesla, never have. I\u2019m short treasuries.",
-                    "score": -12
+                    "score": -10
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "TTM",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Really? Tell me where I'm \"shilling\" and not just stating facts.\n\nThey did grow production 100% over the last year (777k TTM vs 378k in the year before). [They did increase increase margins massively.](https://imgur.com/a/ind7tR7) They are bringing online two new factories, each larger than their two current factories combined.\n\nThe only debatable thing is whether their software margins will be significant in the future.",
-                    "score": 8
+                    "score": 9
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "GF",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "It's a fact. Expectations are a consensus estimate from Wall St analysts.\n\nNo, you're not short Tesla, you just suck Burry's junk because your OnlyFans GF is busy servicing other dudes.",
                     "score": 13
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "L",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Exactly. It\u2019s a consensus. That\u2019s what creates an \u201canalysts\u2019\u201d estimate lmfao. And it was below that mean estimate. \n\nTake that L",
                     "score": -4
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "BC",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "I think average BC price was about $44k for Q3 just saying. Still low but not quite as dramatic as the actual recent low of what... $33k or such?",
                     "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "GOOD",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "I SAID GOOD DAY",
                     "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "NIO",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Ah sorry to hear that. If it makes you feel any better I sold NIO at a loss as well when I divested my portfolio of Chinese stocks about 2 months ago (just not comfortable with regulatory environment)",
                     "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "SO",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "Real talk, they make a few other styles of shoes that are really nice. I wear their canvas boat shoes ( I guess is what they're called) when ever my SO makes me leave the house. People always laugh when I tell them they're crocs.\n\nDisclaimer: I also wear their ugly style as well.",
                     "score": 3
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "MKSI",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "$MKSI is up next week also. Looks like a cup and handle (if you buy that approach).",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "HP",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "On top of that everybody's still comparing Tesla to car companies. That's like comparing Google to Yahoo, Amazon to B&N or Apple to HP. Tesla Energy is still flying under the radar. Even if you only focus on their vehicle production growth it's clearly not over-valued. If you realize it's a west coast tech company and therefore will grow and develop like any other west coast tech company the stock still looks cheap.",
-                    "score": 3
+                    "score": 2
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "IRS",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "IRS love people like you who sell and pay short term capital gains",
                     "score": 1
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         },
         {
             "name": "PINS",
+            "actual_stock_value": "todo",
             "mentions": 1,
             "comments": [
                 {
                     "body": "It is rumor, neither paypal, not PINS confirmed it. Wait for 10-15 days, all rumors will go as some big banks/funds buying PYPL shares at deep discount.\n\nI keep buying PYPL now as they have results next week.",
-                    "score": 9
+                    "score": 11
                 }
-            ],
-            "actual_stock_value": "todo"
+            ]
         }
     ]
 }
