@@ -8,5 +8,4 @@ def main():
     top_tickers_week = crawler.get_top_tickers_day()
     crawler.save_dict_as_json(top_tickers_week, "top_tickers_v2")
 
-
 main()
