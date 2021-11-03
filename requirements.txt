@@ -1,4 +1,5 @@
 praw
 numpy
 pandas
-
+nltk
+contractions
