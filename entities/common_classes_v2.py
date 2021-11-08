@@ -133,7 +133,7 @@ class RedditCrawler:
         for key in stock_dictionary.get("stock_list", []):
             try:
                 stock_value = str(si.get_live_price(key.get("name", "")))
-            except AssertionError:
+            except:
                 stock_value = "Can not be extracted."
             key['actual_stock_value'] = stock_value
 
