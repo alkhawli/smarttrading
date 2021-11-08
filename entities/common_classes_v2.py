@@ -4,6 +4,7 @@ import pandas as pd
 import re
 import json
 import logging
+from yahoo_fin import stock_info as si
 
 from entities.object_entities import Comment, MainStock, AllStocks
 from commons.env import get_config, Vars
@@ -37,7 +38,7 @@ class RedditCrawler:
         self.subs = get_config(Vars.SUBS_TO_CRAWL)
         self.data = []
 
-    def get_top_tickers_day(self) -> dict:
+    def get_top_tickers_day(self) -> AllStocks:
         """
         Function to get a dictionary of top tickers per sub, filtered by top "week"  #toDo Set week dynamic?
         :return: top_tickers (dict): Dictionary of tickers with their quantity in comments
@@ -91,9 +92,10 @@ class RedditCrawler:
                 if phrase in ticker_dict:
                     # Adds a MainStock obj to the dictionary if the phrase not exists
                     if next((item for item in main_dict.get("stock_list") if item["name"] == phrase), None) is None:
+
                         new_stock = MainStock(
                             name=phrase,
-                            actual_stock_value="todo",
+                            actual_stock_value=stock_value,
                             mentions=1,
                             comments=[comment_obj]
                         )
@@ -121,6 +123,22 @@ class RedditCrawler:
             for ticker in tl:
                 ticker_dict[ticker] = 1
         return ticker_dict
+
+    @staticmethod
+    def add_actual_stock_value(stock_dictionary: AllStocks) -> AllStocks:
+        """
+        Function to add actual stock value to dictionary
+        :param stock_dictionary: Prepared AllStock dictionary
+        :return: AllStock dictionary extended with actual stock values
+        """
+        for key in stock_dictionary.get("stock_list", []):
+            try:
+                stock_value = str(si.get_live_price(key.get("name", "")))
+            except AssertionError:
+                stock_value = "Can not be extracted."
+            key['actual_stock_value'] = stock_value
+
+        return stock_dictionary
 
     @staticmethod
     def save_dict_as_json(dictionary: dict, file_name: str) -> None:
