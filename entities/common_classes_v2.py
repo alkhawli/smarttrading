@@ -48,7 +48,7 @@ class RedditCrawler:
         )
 
         for sub in self.subs:
-            main_dict = self._crawl_posts(sub=sub, main_dict=main_dict)
+            main_dict = self._crawl_posts(sub=sub, main_dict=main_dict) #todo filter for thresholds
 
         return main_dict
 
