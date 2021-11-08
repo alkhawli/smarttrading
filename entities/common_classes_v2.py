@@ -92,10 +92,9 @@ class RedditCrawler:
                 if phrase in ticker_dict:
                     # Adds a MainStock obj to the dictionary if the phrase not exists
                     if next((item for item in main_dict.get("stock_list") if item["name"] == phrase), None) is None:
-
                         new_stock = MainStock(
                             name=phrase,
-                            actual_stock_value=stock_value,
+                            actual_stock_value="",
                             mentions=1,
                             comments=[comment_obj]
                         )
