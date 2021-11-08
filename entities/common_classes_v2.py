@@ -3,7 +3,12 @@ from praw.models.listing.generator import ListingGenerator
 import pandas as pd
 import re
 import json
+import logging
+
 from entities.object_entities import Comment, MainStock, AllStocks
+from commons.env import get_config, Vars
+
+logging.getLogger().setLevel(logging.INFO)
 
 
 class RedditConnector:
@@ -29,7 +34,7 @@ class RedditCrawler:
         """
         self.reddit_conn = reddit_conn
         self.stock_list = self._get_stock_list()
-        self.subs = ["wallstreetbets", "stocks"]  # , "investing", "smallstreetbets"]  # toDo add to CONSTANT file
+        self.subs = get_config(Vars.SUBS_TO_CRAWL)
         self.data = []
 
     def get_top_tickers_day(self) -> dict:
@@ -70,9 +75,9 @@ class RedditCrawler:
         :param main_dict: main_dictionary where all stocks are listed AllStocks{..}
         :return: updated main_dict
         """
-        regex_pattern = r'\b([A-Z]+)\b'  # toDo add to CONSTANT file
+        regex_pattern = get_config(Vars.REGEX_PATTERN_STOCKS)
         ticker_dict = self.stock_list
-        blacklist = ["A", "I", "DD", "WSB", "YOLO", "RH", "EV", "PE", "ETH", "BTC", "E"]  # toDo add to CONSTANT file
+        blacklist = get_config(Vars.STOCK_BLACKLIST)
 
         comment_obj = Comment(
             body=comment.body,
@@ -91,7 +96,7 @@ class RedditCrawler:
                             actual_stock_value="todo",
                             mentions=1,
                             comments=[comment_obj]
-                            )
+                        )
                         main_dict['stock_list'].append(new_stock)
                         found_list.append(phrase)
                     else:
@@ -109,7 +114,7 @@ class RedditCrawler:
         :return ticker_dict (dict): dictionary of tickers from files
         """
         ticker_dict = {}
-        file_list = ["input/list1.csv", "input/list2.csv", "input/list3.csv"]  # toDo add to CONSTANT file
+        file_list = get_config(Vars.INPUT_FILE_LIST)
         for file in file_list:
             tl = pd.read_csv(file, skiprows=0, skip_blank_lines=True)
             tl = tl[tl.columns[0]].tolist()
@@ -129,4 +134,4 @@ class RedditCrawler:
             "stock_list": sorted(dictionary.get("stock_list"), key=lambda item: item['mentions'], reverse=True)}
         with open(f'output/{file_name}.json', 'w') as fp:
             json.dump(ordered_dictionary, fp, indent=4)
-        print("File saved.")
+        logging.info("File saved.")
