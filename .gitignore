@@ -1,2 +1,3 @@
 # Local data 
 .idea
+/entities/secret_string.py
