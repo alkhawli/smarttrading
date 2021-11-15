@@ -1,4 +1,4 @@
-from entities.secret_string import CONNECTION
+from entities.connection_details import CONNECTION
 from entities.common_classes_v2 import RedditConnector, RedditCrawler
 from commons.env import assign_stack, Stacks
 
