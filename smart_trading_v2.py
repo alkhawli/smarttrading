@@ -15,7 +15,8 @@ def main():
     result_dict, json_key = crawl_reddit(reddit_conn=connect_to_reddit(), file_name="top_tickers_v3")
 
     # CLEANSING
-    cleanse_data()  # todo seperate cleansing and analysis part, set dynamic parameters for output? todo Just json file or also a dict?
+    cleanse_data()  # todo seperate cleansing and analysis part, set dynamic parameters for output?
+                    # todo Just json file or also a dict?
 
 
 def connect_to_reddit() -> Reddit:
