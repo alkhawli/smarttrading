@@ -16,15 +16,15 @@ def main():
 
     # CLEANSING
     cleanse_data()  # todo seperate cleansing and analysis part, set dynamic parameters for output?
-                    # todo Just json file or also a dict?
+    # todo Just json file or also a dict?
 
 
-def connect_to_reddit() -> Reddit:
+def connect_to_reddit() -> Reddit:  # todo add Docstrings
     reddit_conn = RedditConnector(CONNECTION).return_connector()
     return reddit_conn
 
 
-def crawl_reddit(reddit_conn: Reddit, file_name: str, add_stock_values: bool = False) -> Tuple[dict, str]:
+def crawl_reddit(reddit_conn: Reddit, file_name: str, add_stock_values: bool = False) -> Tuple[dict, str]: # todo add Docstrings
     crawler = RedditCrawler(reddit_conn=reddit_conn)
     top_tickers_week = crawler.get_top_tickers_day()
     if add_stock_values:
@@ -33,7 +33,7 @@ def crawl_reddit(reddit_conn: Reddit, file_name: str, add_stock_values: bool = F
     return top_tickers_week, file_key
 
 
-def cleanse_data():
+def cleanse_data(): # todo add Docstrings
     SentimentAnalysis().run()
 
 
