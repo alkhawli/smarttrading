@@ -27,9 +27,10 @@ def crawl_reddit(reddit_conn: Reddit, file_name: str, add_stock_values: bool = F
     crawler = RedditCrawler(reddit_conn=reddit_conn)
     top_tickers_week = crawler.get_top_tickers_day()
     if add_stock_values:
-        top_tickers_week = crawler.add_actual_stock_value(stock_dictionary=top_tickers_week) #Takes long time
+        top_tickers_week = crawler.add_actual_stock_value(stock_dictionary=top_tickers_week)  # Takes long time
     file_key = crawler.save_dict_as_json(top_tickers_week, file_name)
     return top_tickers_week, file_key
+
 
 def cleanse_data():
     SentimentAnalysis().run()
