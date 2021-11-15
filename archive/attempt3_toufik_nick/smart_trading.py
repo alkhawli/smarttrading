@@ -1,5 +1,5 @@
-from entities.secret_string import CONNECTION
-from entities.common_classes import RedditConnector, RedditCrawler
+from scrape_entities.connection_details import CONNECTION
+from archive.attempt3_toufik_nick.common_classes import RedditConnector, RedditCrawler
 
 
 def main():

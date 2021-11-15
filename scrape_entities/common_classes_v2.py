@@ -6,7 +6,7 @@ import json
 import logging
 from yahoo_fin import stock_info as si
 
-from entities.object_entities import Comment, MainStock, AllStocks
+from scrape_entities.object_entities import Comment, MainStock, AllStocks
 from commons.env import get_config, Vars
 
 logging.getLogger().setLevel(logging.INFO)
@@ -144,7 +144,7 @@ class RedditCrawler:
         return stock_dictionary
 
     @staticmethod
-    def save_dict_as_json(dictionary: dict, file_name: str) -> None:
+    def save_dict_as_json(dictionary: dict, file_name: str) -> str:
         """
         Save dictionary as json file in /output
         :param dictionary: dictionary to be saved
@@ -153,6 +153,8 @@ class RedditCrawler:
         """
         ordered_dictionary = {
             "stock_list": sorted(dictionary.get("stock_list"), key=lambda item: item['mentions'], reverse=True)}
-        with open(f'output/{file_name}.json', 'w') as fp:
+        file_key = f'output/{file_name}.json'
+        with open(file_key, 'w') as fp:
             json.dump(ordered_dictionary, fp, indent=4)
         logging.info("File saved.")
+        return file_key

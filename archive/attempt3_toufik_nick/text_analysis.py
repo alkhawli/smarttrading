@@ -3,7 +3,7 @@ nltk.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import json
 
-with open("C:/Users/muell/Projekte/smarttrading/output/top_tickers_v2.json", "r") as f:
+with open("/output/top_tickers_v2.json", "r") as f:
     x = json.load(f)
 
 print(x['stock_list'][0].get("comments")[0])

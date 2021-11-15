@@ -3,7 +3,7 @@ from praw.models.listing.generator import ListingGenerator
 import pandas as pd
 import re
 import json
-from entities.object_entities import Comment, MainStock, AllStocks
+from scrape_entities.object_entities import Comment, MainStock, AllStocks
 
 
 class RedditConnector:

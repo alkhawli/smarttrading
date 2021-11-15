@@ -1,3 +1,3 @@
 # Local data 
 .idea
-/entities/connection_details.py
+/scrape_entities/connection_details.py
