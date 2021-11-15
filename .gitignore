@@ -1,4 +1,4 @@
 # Local data 
+.pyc
 .idea
 /1_scrape_entities/connection_details.py
-entities/__pycache__/
