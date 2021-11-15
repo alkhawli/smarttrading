@@ -1,4 +1,4 @@
 # Local data 
-.pyc
+*.pyc
 .idea
 /1_scrape_entities/connection_details.py
