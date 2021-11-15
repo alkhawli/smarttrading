@@ -1,3 +1,4 @@
 # Local data 
 .idea
 /1_scrape_entities/connection_details.py
+__pycache__/
