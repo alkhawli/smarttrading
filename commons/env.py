@@ -19,6 +19,8 @@ class Vars(str, ExtendedEnum):
     REGEX_PATTERN_STOCKS = 'REGEX_PATTERN_STOCKS'
     STOCK_BLACKLIST = 'STOCK_BLACKLIST'
     INPUT_FILE_LIST = 'INPUT_FILE_LIST'
+    COMMENT_THRESHOLD_LOWER = 'COMMENT_THRESHOLD_LOWER'
+    COMMENT_THRESHOLD_UPPER = 'COMMENT_THRESHOLD_UPPER'
 
 
 CONFIGURATION = {
@@ -26,7 +28,10 @@ CONFIGURATION = {
         Vars.SUBS_TO_CRAWL: ["wallstreetbets", "stocks"],  # , "investing", "smallstreetbets"]
         Vars.REGEX_PATTERN_STOCKS: r'\b([A-Z]+)\b',
         Vars.STOCK_BLACKLIST: ["A", "I", "DD", "WSB", "YOLO", "RH", "EV", "PE", "ETH", "BTC", "E"],
-        Vars.INPUT_FILE_LIST: ["input/list1.csv", "input/list2.csv", "input/list3.csv"]
+        Vars.INPUT_FILE_LIST: ["input/list1.csv", "input/list2.csv", "input/list3.csv"],
+
+        Vars.COMMENT_THRESHOLD_LOWER: -5,
+        Vars.COMMENT_THRESHOLD_UPPER: 10
     }
 }
 

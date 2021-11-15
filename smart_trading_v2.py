@@ -9,7 +9,7 @@ def main():
     crawler = RedditCrawler(reddit_conn=reddit_conn)
     top_tickers_week = crawler.get_top_tickers_day()
     #top_tickers_week_with_actual_stock_value = crawler.add_actual_stock_value(stock_dictionary=top_tickers_week) #Takes long time
-    crawler.save_dict_as_json(top_tickers_week, "top_tickers_v3")
+    crawler.save_dict_as_json(top_tickers_week, "top_tickers_v4")
 
 
 main()

@@ -80,6 +80,10 @@ class RedditCrawler:
         ticker_dict = self.stock_list
         blacklist = get_config(Vars.STOCK_BLACKLIST)
 
+        # IF CLAUSE FOR THRESHOLD
+        if get_config(Vars.COMMENT_THRESHOLD_LOWER) < comment.score < get_config(Vars.COMMENT_THRESHOLD_UPPER):
+            return main_dict
+
         comment_obj = Comment(
             body=comment.body,
             score=comment.score
