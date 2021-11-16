@@ -3,3 +3,4 @@ numpy
 pandas
 nltk
 contractions
+yahoo_fin
