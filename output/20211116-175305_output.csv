@@ -1,0 +1,67 @@
+Stockname,Mentions,countpositive,countnegative,countneutral,verbs,aggscoresum
+TLRY,14.0,5.0,0.0,1.0,"['go', 'get', 'keep', 'buy', 'tlry', 'respond', 'know', 'control', 'load', 'rememr', 'regret', 'hit', 'stop', 'edit', 'comment', 'think', 'burn', 'play', 'sell', 'lose', 'position', 'do']",493.0
+TSLA,13.0,4.0,5.0,3.0,"['make', 'get', 'go', 'want', 'overvalue', 'sell', 'understand', 'buy', 'lose', 'volatile', 't', 'put', 'see', 'lcid', 'learn', 'recommend', 'affect', 'clov', 'tell', 'screw', 'think', 'help', 'warn', 'end', 'purchase', 'forget', 'seem', 'survive', 'create', 'cut', 'manage', 'offer', 'join', 'look', 'do', 'dress', 'sign', 'keep', 'hold', 'short', 'reflect', 'find', 'own', 'hope', 'resold', 'say', 'agree', 'love', 'move', 'hate', 'tank', 'pay', 'ring', 'represent', 'fix']",1122.0
+CEO,10.0,6.0,2.0,2.0,"['make', 'think', 'do', 'produce', 'lead', 'want', 'categorize', 'catch', 'mean', 'plan', 'go', 'harm', 'replace', 'push', 'track', 'suffer', 'construe', 'happen', 'base', 'deliver', 'develop', 'design', 'innovate', 'ignore', 'charge', 'stop', 'ask', 'take', 'spend', 'turn', 'overvalue', 'expect', 'name', 'put', 'hope', 'invest', 'call', 'agree', 'need', 'convince', 'found', 'dump', 'sell', 'cash', 'crash', 'collaborate', 'orient', 'lieve', 'identify', 'say']",330.0
+GME,6.0,3.0,2.0,0.0,"['show', 'go', 'rememr', 'know', 'mean', 'pay', 'read', 'see', 'do', 'get', 'upvote', 'ignore', 'write', 'use', 'want', 'associate', 'tell', 'pass', 'find', 'buy', 'celebrate', 'lose', 'learn', 'recommend', 'put', 'affect', 'make', 'clov', 'lcid', 'screw', 'kick']",62.0
+ICE,5.0,3.0,2.0,0.0,"['make', 'go', 'come', 'understand', 'sell', 'produce', 'try', 'lol', 's', 'compare', 'adopt', 'reward', 'say', 'fail', 'want', 'think', 'realize', 'read', 'note', 'save', 'develop', 'evs', 'ramp', 'overestimate', 'underestimate', 'popularize', 'establish', 'need', 'sunset', 'start', 'saturate', 'compete', 'do', 'shift']",54.0
+NVDA,4.0,0.0,0.0,0.0,[],
+X,4.0,3.0,0.0,1.0,"['model', 'do', 'claim', 'sell', 'work', 'offer', 'see', 'compare', 'fund', 'reach', 'rivian', 'produce', 'run', 'found', 'buy', 'speck', 'say', 'trade', 'push', 'make', 'create', 'merge', 'capture']",71.0
+AI,3.0,2.0,0.0,0.0,"['make', 'produce', 'catch', 'categorize', 'lead', 'think', 'go', 'charge', 'stop', 'innovate', 'ask', 'plan', 'say', 'base', 'happen', 'develop', 'design', 'drive', 'ignore']",93.0
+IMO,3.0,3.0,0.0,0.0,"['go', 'understand', 'vw', 'buy', 'make', 'develop', 'power', 'suspect', 'dump', 'gut', 'see', 'split', 'at', 'move', 'base', 'fix', 'back', 'lead', 'happen', 'short', 'look', 'loom', 'lose', 'hope', 'own', 'find', 'reflect', 'track']",187.0
+SNDL,2.0,1.0,0.0,0.0,['get'],-8.0
+B,2.0,0.0,1.0,0.0,"['require', 'curb', 'go', 'purchase', 'help', 'keep', 'use', 'borrow']",46.0
+ATH,2.0,2.0,0.0,0.0,"['buy', 'hit', 'respond', 'edit', 'stop', 'comment', 'love']",61.0
+TTM,2.0,2.0,0.0,0.0,"['value', 'make', 'operate', 'tell', 'need', 'want', 'hit', 't', 'm']",88.0
+IRS,2.0,0.0,2.0,0.0,"['buy', 'investigate', 'use', 'keep', 'do', 'purchase', 'create', 'put', 'stock', 'launder', 'take', 'realize', 'split', 'pay', 'qualify', 'argue', 'sue', 'mean', 'rent', 'allow', 'exist', 'live', 'close', 'think', 'apply', 'know', 'aid', 'protect']",37.0
+U,2.0,1.0,1.0,0.0,"['give', 'shit', 'try', 'cripple', 'recruit', 'get', 'understand', 'hire', 'take', 'know', 'doubt', 'play']",56.0
+AMD,2.0,0.0,0.0,0.0,[],
+D,2.0,2.0,0.0,0.0,"['mean', 'orient', 'spend', 'make', 'collaborate', 'identify', 'think', 'found', 'turn', 'deliver', 'take', 'stand']",30.0
+F,2.0,1.0,0.0,0.0,"['know', 'destroy', 'remove', 'at', 'look', 'double', 'check', 'get']",45.0
+PLTR,2.0,1.0,0.0,1.0,"['think', 'compare', 'point', 'trade', 'pltr', 'require', 'use', 'start', 'do', 'include']",38.0
+IBM,2.0,2.0,0.0,0.0,"['laugh', 'think', 'lose', 'invest', 'try', 'look', 'point', 'fail', 'rememr', 'overprice', 'overthrow', 'keep', 'seem', 'lieve', 'disappear', 'exist', 'gain', 'make', 'know', 'replace', 'happen', 'fall', 'pretend', 'limit', 'adapt', 'do', 'trade', 'pltr', 'compare', 'require', 'use', 'start', 'include', 'sell', 'overvalue', 'say', 'compete', 'share', 'fanboy', 'monetize', 'grow']",36.0
+BP,1.0,1.0,0.0,0.0,"['value', 'make', 'operate', 'tell', 'need']",66.0
+GE,1.0,1.0,0.0,0.0,"['laugh', 'look', 'lose', 'invest', 'try', 'replace', 'happen', 'know', 'make', 'rememr', 'gain', 'fall', 'seem', 'grow', 'lieve', 'overthrow', 'overprice', 'exist', 'think', 'fail', 'adapt', 'pretend', 'disappear', 'fanboy', 'sell', 'limit', 'monetize', 'share', 'overvalue', 'say', 'compete', 'keep']",10.0
+SO,1.0,1.0,0.0,0.0,"['outperform', 'start', 'know', 'keep', 'realize', 'pay', 'help', 'work', 'drive', 'produce', 'invest', 'slow', 'see', 'come', 'chip', 'exceed', 'sell', 'call', 'show', 'evolve']",-10.0
+AAPL,1.0,1.0,0.0,0.0,"['laugh', 'look', 'lose', 'invest', 'try', 'replace', 'happen', 'know', 'make', 'rememr', 'gain', 'fall', 'seem', 'grow', 'lieve', 'overthrow', 'overprice', 'exist', 'think', 'fail', 'adapt', 'pretend', 'disappear', 'fanboy', 'sell', 'limit', 'monetize', 'share', 'overvalue', 'say', 'compete', 'keep']",10.0
+FSD,1.0,1.0,0.0,0.0,"['make', 'produce', 'categorize', 'catch', 'lead', 'say', 'charge', 'stop', 'innovate', 'ask', 'go', 'design', 'plan', 'base', 'happen', 'develop', 'ignore']",-5.0
+JPM,1.0,0.0,1.0,0.0,['pay'],31.0
+TM,1.0,0.0,0.0,0.0,[],
+GM,1.0,1.0,0.0,0.0,"['survive', 'come', 'happen', 'guess', 't']",57.0
+AA,1.0,1.0,0.0,0.0,"['lol', 's', 'compare', 'produce']",10.0
+EQS,1.0,1.0,0.0,0.0,"['want', 'value', 'do', 'shine', 'stabilize', 'tackle', 'range', 'ramp', 'take', 'increase', 'imagine', 'start', 'produce', 'hit', 'complain', 'deliver', 'show', 'float', 'mean']",499.0
+EDIT,1.0,0.0,0.0,0.0,[],
+NKLA,1.0,0.0,1.0,0.0,"['stage', 'seem', 'use']",23.0
+PDT,1.0,0.0,1.0,0.0,"['start', 'force', 'spend', 'buy', 'help', 'survive', 'reserve', 'take', 'avoid', 'save', 'think', 'trade', 'leave', 'stay', 'worsen', 'try', 'violate']",16.0
+OR,1.0,1.0,0.0,0.0,"['buy', 'sell', 'give', 'say', 'hold', 'make']",12.0
+MVIS,1.0,0.0,0.0,0.0,[],
+BYND,1.0,1.0,0.0,0.0,"['ask', 'touch', 'bynd']",41.0
+SNOW,1.0,1.0,0.0,0.0,"['think', 'point', 'trade', 'pltr', 'compare', 'include', 'use', 'start', 'do', 'require']",26.0
+AYX,1.0,1.0,0.0,0.0,"['think', 'point', 'trade', 'pltr', 'compare', 'include', 'use', 'start', 'do', 'require']",26.0
+IP,1.0,0.0,1.0,0.0,['sell'],-5.0
+K,1.0,1.0,0.0,0.0,"['know', 'destroy', 'remove', 'at', 'look', 'double', 'check', 'get']",13.0
+ANY,1.0,0.0,1.0,0.0,"['rememr', 'show', 'know', 'see', 'read', 'go', 'pay', 'pass', 'celebrate', 'mean', 'ignore', 'tell', 'find', 'use', 'upvote', 'write', 'do', 'buy']",-5.0
+ONE,1.0,0.0,0.0,1.0,"['make', 'check', 'lmaoooo']",-12.0
+HUGE,1.0,1.0,0.0,0.0,"['find', 'see', 'troll', 'store', 'go', 'look', 'make', 'sell', 'move', 'want', 'gain', 'focus', 'get', 'invest', 'think', 'maintain', 'help', 'adopt', 'do']",-7.0
+NET,1.0,1.0,0.0,0.0,"['find', 'see', 'troll', 'store', 'go', 'look', 'make', 'sell', 'move', 'want', 'gain', 'focus', 'get', 'invest', 'think', 'maintain', 'help', 'adopt', 'do']",-7.0
+SPCE,1.0,1.0,0.0,0.0,"['tell', 'keep']",68.0
+R,1.0,1.0,0.0,0.0,"['mean', 'take', 'deliver', 'turn', 'found', 'think', 'identify', 'collaborate', 'make', 'spend', 'orient']",20.0
+T,1.0,0.0,1.0,0.0,"['get', 'shenanigan', 'stay', 'buy', 'do']",18.0
+L,1.0,0.0,0.0,1.0,"['take', 'get', 'fuck', 'deserve']",-22.0
+UK,1.0,0.0,1.0,0.0,"['sue', 'want', 'use', 'deceive', 'create', 'hope', 'accept', 'win', 'edit', 'follow', 'leave', 'look', 'complain', 'drop', 'show', 'do', 'get']",39.0
+KEY,1.0,1.0,0.0,0.0,"['buy', 'make', 'take', 'wait', 'move', 'sell', 'repeat']",64.0
+SDC,1.0,1.0,0.0,0.0,"['get', 'lose', 'learn', 'recommend', 'affect', 'make', 'put', 'clov', 'lcid', 'screw']",16.0
+JP,1.0,1.0,0.0,0.0,"['tesla', 'know']",11.0
+PHD,1.0,1.0,0.0,0.0,[],17.0
+APHA,1.0,1.0,0.0,0.0,"['keep', 'rememr', 'load', 'control', 'know', 'do', 'go']",15.0
+THC,1.0,0.0,0.0,0.0,[],
+AMZN,1.0,0.0,1.0,0.0,"['pay', 'mean', 'double', 'scratch', 'keep', 'fly', 'wait', 'come']",46.0
+Y,1.0,1.0,0.0,0.0,"['take', 'release', 's']",10.0
+CO,1.0,0.0,1.0,0.0,"['buy', 'go', 'smoke', 'grow', 'get', 'roll', 'matter']",10.0
+LIVE,1.0,0.0,0.0,1.0,"['let', 'hope', 'want', 'live', 'own', 'buy', 'rent', 'need', 'manage', 'take']",183.0
+SALT,1.0,1.0,0.0,0.0,"['buy', 'keep', 'prevent', 'revise', 'purchase', 'pay', 'help', 'kill', 'require', 'count', 'decide', 'force', 'sell', 'take', 'do', 'raise', 'own']",31.0
+CASH,1.0,1.0,0.0,0.0,"['buy', 'love', 'wait', 'rent', 'build', 'name', 'live', 'snap', 'see', 'wish']",31.0
+WISH,1.0,1.0,0.0,0.0,"['t', 'hear', 'buy', 'go']",-135.0
+W,1.0,1.0,0.0,0.0,"['know', 'destroy', 'remove', 'at', 'look', 'double', 'check', 'get']",13.0
+G,1.0,1.0,0.0,0.0,"['know', 'destroy', 'remove', 'at', 'look', 'double', 'check', 'get']",13.0
+QQQ,1.0,1.0,0.0,0.0,"['know', 'destroy', 'remove', 'at', 'look', 'double', 'check', 'get']",13.0
+FB,1.0,1.0,0.0,0.0,"['give', 'recruit', 'get', 'understand', 'hire', 'take', 'know', 'doubt', 'play']",23.0
