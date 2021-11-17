@@ -1,5 +1,5 @@
 # Local data 
 *.pyc
 .idea
-/1_scrape_entities/connection_details.py
+*connection_details.py
 /output/2021*
